@@ -8,7 +8,7 @@
 
 <?php
                                          
- define('MAIL_TO','website@911mechanical.com');
+ define('MAIL_TO','');
  $errors = array();
  
  $name = '';

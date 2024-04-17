@@ -1,15 +1,11 @@
 <?php include('header.php'); ?>
-<title>911 Mechanical Heating and Cooling</title>
+<title>Naugle Heating and Cooling</title>
 <meta name="description"
     content="911 Mechanical Heating and Cooling, the trusted name for over two decades, offers top-quality furnace repair, HVAC, and AC services in Macomb, Michigan. " />
 </head>
 
 <body>
 
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KBP7WLRW"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
 
 
     <?php include('menu.php'); ?>
