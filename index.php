@@ -17,18 +17,6 @@
                 </div>
                 <div class="item">
                     <a href="<?php echo $base_url ?>/contact-us.php"> <img
-                            src="<?php echo $base_url; ?>/img/jacks wedoitall-1 (1) (2) (1).png" alt="third slide"
-                            width="100%">
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="<?php echo $base_url ?>/generators.php"> <img
-                            src="<?php echo $base_url; ?>/img/jaks_gen_1000X350 (3).png" alt="fourth slide"
-                            width="100%">
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="<?php echo $base_url ?>/contact-us.php"> <img
                             src="<?php echo $base_url; ?>/img/Jacks_2000REBATE1 (2) (1) (1).png" alt="fifth slide"
                             width="100%">
                     </a>
@@ -321,7 +309,7 @@
             <div class="container">
 
                 <h2 style="color: white;">Please call us at <a href="tel:+18887975225"
-                        style="color: #3f3f3f;">1-888-797-JACK</a>
+                        style="color: #3f3f3f;">1-000-0000-0000</a>
                     To Make an Appointment.</h2>
 
             </div>

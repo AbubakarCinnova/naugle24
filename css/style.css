@@ -670,7 +670,7 @@ a:visited {
 .dropdown-menu li:hover {
   color: #fff !important;
   text-decoration: none;
-  background-color: #d51c1c !important;
+  background-color: #E54137 !important;
   background-image: none !important;
 }
 
@@ -679,7 +679,7 @@ a:visited {
 .dropdown-menu>.active>a:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #ee001c !important;
+  background-color: #E54137 !important;
   background-image: none;
   outline: 0;
 }

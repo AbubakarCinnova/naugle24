@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="de073gIEjMxoaGj0MEMEj0Uom_LA8aiKNsTURixNjZI" />
 
-    <link rel="icon" type="image/x-icon" href="<?php echo $base_url ?>/img/logo.jpg">
+    <link rel="icon" type="image/x-icon" href="<?php echo $base_url ?>/img/NaugleLogo.jpg">
 
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
