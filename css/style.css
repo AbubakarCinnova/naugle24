@@ -2960,6 +2960,11 @@ textarea {
   padding: 50px 0px;
 }
 
+.iframe-wrap iframe {
+  border: 15px solid white;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
 @media (min-width: 768px) {
   .iframe-wrap {
     display: flex;
