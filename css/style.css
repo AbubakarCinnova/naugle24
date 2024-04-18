@@ -22,15 +22,18 @@
   height: 174px;
   width: 174px;
 }
+
 .blue-boxes h4 {
   font-weight: 600;
   margin-top: 20px;
   line-height: 24px;
   color: #2e22e1;
 }
+
 .blue-boxes h4:hover {
   color: #000000 !important;
 }
+
 .blue-boxes a {
   text-decoration: none !important;
 }
@@ -540,6 +543,7 @@ a:visited {
 }
 
 @media only screen and (min-width: 0px) {
+
   /* We don't want certain admin areas to be responsive, it makes no sense */
   .nxs-main {
     width: 65.2em;
@@ -549,13 +553,11 @@ a:visited {
 .nxs-colorzen .nxs-colorzen-base2-dm {
   border-color: #000000;
   background-color: #000000;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#333333),
-    to(#000000)
-  );
+  background: -webkit-gradient(linear,
+      0% 0%,
+      0% 100%,
+      from(#333333),
+      to(#000000));
   color: #f9f9f9;
   text-shadow: 1px 1px 1px #000000;
 }
@@ -572,13 +574,11 @@ a:visited {
 .main-box-bg {
   border-color: #000000;
   background-color: #000000;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#333333),
-    to(#000000)
-  );
+  background: -webkit-gradient(linear,
+      0% 0%,
+      0% 100%,
+      from(#333333),
+      to(#000000));
   color: #f9f9f9;
   text-shadow: 1px 1px 1px #000000;
   display: inline-block;
@@ -587,13 +587,11 @@ a:visited {
 .x-box-button {
   border-color: #999999;
   background-color: #cccccc;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#ffffff),
-    to(#cccccc)
-  );
+  background: -webkit-gradient(linear,
+      0% 0%,
+      0% 100%,
+      from(#ffffff),
+      to(#cccccc));
   color: black;
   text-shadow: 1px 1px 1px white;
   border-radius: 3px;
@@ -648,9 +646,9 @@ a:visited {
   }
 }
 
-.nav .open > a,
-.nav .open > a:focus,
-.nav .open > a:hover {
+.nav .open>a,
+.nav .open>a:focus,
+.nav .open>a:hover {
   background-color: #e94a4c !important;
 }
 
@@ -658,17 +656,17 @@ a:visited {
   border-radius: 0px !important;
 }
 
-.navbar-nav > li > a:hover {
+.navbar-nav>li>a:hover {
   color: #fff !important;
 }
 
-.nav > li > a:hover {
+.nav>li>a:hover {
   background-color: #000000 !important;
   transition: 0.3s ease-in-out;
 }
 
-.dropdown-menu > li > a:focus,
-.dropdown-menu > li > a:hover,
+.dropdown-menu>li>a:focus,
+.dropdown-menu>li>a:hover,
 .dropdown-menu li:hover {
   color: #fff !important;
   text-decoration: none;
@@ -676,9 +674,9 @@ a:visited {
   background-image: none !important;
 }
 
-.dropdown-menu > .active > a,
-.dropdown-menu > .active > a:focus,
-.dropdown-menu > .active > a:hover {
+.dropdown-menu>.active>a,
+.dropdown-menu>.active>a:focus,
+.dropdown-menu>.active>a:hover {
   color: #fff;
   text-decoration: none;
   background-color: #ee001c !important;
@@ -686,13 +684,13 @@ a:visited {
   outline: 0;
 }
 
-.dropdown-menu > li > a {
+.dropdown-menu>li>a {
   font-size: 14px;
   color: #ffffff;
   padding: 10px 20px !important;
 }
 
-.navbar-nav > li > .dropdown-menu {
+.navbar-nav>li>.dropdown-menu {
   border-color: #000000;
   border: 0px;
   background-color: #000000;
@@ -772,6 +770,7 @@ a:visited {
 }
 
 @media only screen and (min-width: 0px) {
+
   /* We don't want certain admin areas to be responsive, it makes no sense */
   .nxs-main {
     width: 65.2em;
@@ -781,13 +780,11 @@ a:visited {
 .nxs-colorzen .nxs-colorzen-base2-dm {
   border-color: #000000;
   background-color: #000000;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#333333),
-    to(#000000)
-  );
+  background: -webkit-gradient(linear,
+      0% 0%,
+      0% 100%,
+      from(#333333),
+      to(#000000));
   color: #f9f9f9;
   text-shadow: 1px 1px 1px #000000;
 }
@@ -804,13 +801,11 @@ a:visited {
 .main-box-bg {
   border-color: #000000;
   background-color: #000000;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#333333),
-    to(#000000)
-  );
+  background: -webkit-gradient(linear,
+      0% 0%,
+      0% 100%,
+      from(#333333),
+      to(#000000));
   color: #f9f9f9;
   text-shadow: 1px 1px 1px #000000;
   display: inline-block;
@@ -819,13 +814,11 @@ a:visited {
 .x-box-button {
   border-color: #999999;
   background-color: #cccccc;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#ffffff),
-    to(#cccccc)
-  );
+  background: -webkit-gradient(linear,
+      0% 0%,
+      0% 100%,
+      from(#ffffff),
+      to(#cccccc));
   color: black;
   text-shadow: 1px 1px 1px white;
   border-radius: 3px;
@@ -858,6 +851,7 @@ a:visited {
 }
 
 @media only screen and (min-width: 0px) {
+
   /* We don't want certain admin areas to be responsive, it makes no sense */
   .nxs-main {
     width: 65.2em;
@@ -867,13 +861,11 @@ a:visited {
 .nxs-colorzen .nxs-colorzen-base2-dm {
   border-color: #000000;
   background-color: #000000;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#333333),
-    to(#000000)
-  );
+  background: -webkit-gradient(linear,
+      0% 0%,
+      0% 100%,
+      from(#333333),
+      to(#000000));
   color: #f9f9f9;
   text-shadow: 1px 1px 1px #000000;
 }
@@ -890,13 +882,11 @@ a:visited {
 .main-box-bg {
   border-color: #000000;
   background-color: #000000;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#333333),
-    to(#000000)
-  );
+  background: -webkit-gradient(linear,
+      0% 0%,
+      0% 100%,
+      from(#333333),
+      to(#000000));
   color: #f9f9f9;
   text-shadow: 1px 1px 1px #000000;
   display: inline-block;
@@ -905,13 +895,11 @@ a:visited {
 .x-box-button {
   border-color: #999999;
   background-color: #cccccc;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#ffffff),
-    to(#cccccc)
-  );
+  background: -webkit-gradient(linear,
+      0% 0%,
+      0% 100%,
+      from(#ffffff),
+      to(#cccccc));
   color: black;
   text-shadow: 1px 1px 1px white;
   border-radius: 3px;
@@ -985,6 +973,7 @@ a:visited {
 }
 
 @media only screen and (min-width: 0px) {
+
   /* We don't want certain admin areas to be responsive, it makes no sense */
   .nxs-main {
     width: 65.2em;
@@ -994,13 +983,11 @@ a:visited {
 .nxs-colorzen .nxs-colorzen-base2-dm {
   border-color: #000000;
   background-color: #000000;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#333333),
-    to(#000000)
-  );
+  background: -webkit-gradient(linear,
+      0% 0%,
+      0% 100%,
+      from(#333333),
+      to(#000000));
   color: #f9f9f9;
   text-shadow: 1px 1px 1px #000000;
 }
@@ -1017,13 +1004,11 @@ a:visited {
 .main-box-bg {
   border-color: #000000;
   background-color: #000000;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#333333),
-    to(#000000)
-  );
+  background: -webkit-gradient(linear,
+      0% 0%,
+      0% 100%,
+      from(#333333),
+      to(#000000));
   color: #f9f9f9;
   text-shadow: 1px 1px 1px #000000;
   display: inline-block;
@@ -1032,13 +1017,11 @@ a:visited {
 .x-box-button {
   border-color: #999999;
   background-color: #cccccc;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#ffffff),
-    to(#cccccc)
-  );
+  background: -webkit-gradient(linear,
+      0% 0%,
+      0% 100%,
+      from(#ffffff),
+      to(#cccccc));
   color: black;
   text-shadow: 1px 1px 1px white;
   border-radius: 3px;
@@ -1388,13 +1371,11 @@ body {
   -moz-box-shadow: 0px 0px 0px 0px #63000d;
   -webkit-box-shadow: 0px 0px 0px 0px #63000d;
   box-shadow: 0px 0px 0px 0px #63000d;
-  background: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    color-stop(0.05, #ee001c),
-    color-stop(1, #ee001c)
-  );
+  background: -webkit-gradient(linear,
+      left top,
+      left bottom,
+      color-stop(0.05, #ee001c),
+      color-stop(1, #ee001c));
   background: -moz-linear-gradient(top, #ee001c 5%, #ee001c 100%);
   background: -webkit-linear-gradient(top, #ee001c 5%, #ee001c 100%);
   background: -o-linear-gradient(top, #ee001c 5%, #ee001c 100%);
@@ -1417,13 +1398,11 @@ body {
 }
 
 .myButton:hover {
-  background: -webkit-gradient(
-    linear,
-    left top,
-    left bottom,
-    color-stop(0.05, #ee001c),
-    color-stop(1, #ee001c)
-  );
+  background: -webkit-gradient(linear,
+      left top,
+      left bottom,
+      color-stop(0.05, #ee001c),
+      color-stop(1, #ee001c));
   background: -moz-linear-gradient(top, #ee001c 5%, #ee001c 100%);
   background: -webkit-linear-gradient(top, #ee001c 5%, #ee001c 100%);
   background: -o-linear-gradient(top, #ee001c 5%, #ee001c 100%);
@@ -1488,7 +1467,7 @@ h2 {
 
 h1 {
   font-weight: bold;
-  color: #428bca;
+  color: #008FD5;
   line-height: 45px;
   font-size: 35px;
   font-family: "Open Sans", sans-serif;
@@ -1549,7 +1528,7 @@ h6 {
   }
 } */
 
-.table > tbody > tr > td {
+.table>tbody>tr>td {
   vertical-align: middle;
 }
 
@@ -1594,7 +1573,7 @@ h6 {
 /* start Headings */
 /********************************** ******bUTTons**********************************/
 .btn-warning {
-  background: #d70b21 !important;
+  background: #0064AF !important;
   color: white !important;
   font-size: 17px;
   padding: 11px 15px;
@@ -1691,8 +1670,8 @@ a:hover {
   text-decoration: underline;
 }
 
-.nav > li > a:focus,
-.nav > li > a:hover {
+.nav>li>a:focus,
+.nav>li>a:hover {
   text-decoration: none;
   background-color: transparent;
 }
@@ -1883,6 +1862,7 @@ a:hover {
 .mid_header img {
   margin: 0 auto;
 }
+
 @media (max-width: 992px) {
   .mid_header img {
     margin-bottom: 20px;
@@ -1927,12 +1907,12 @@ a:hover {
 }
 
 .navbar {
-  background-color: #d51c1c;
+  background-color: #E54137;
   border-radius: 0;
   border: 0;
 }
 
-.navbar-nav > li > a {
+.navbar-nav>li>a {
   font-size: 14px;
   color: #ffffff !important;
   font-family: "Open Sans", sans-serif;
@@ -2109,10 +2089,12 @@ textarea {
 .read-more-wrap {
   margin-top: 40px;
 }
+
 .read-more-wrap a {
   font-size: 16px;
   font-weight: 600;
 }
+
 .testmonial .owl-theme .owl-controls .owl-page span {
   height: 10px;
   width: 10px;
@@ -2172,9 +2154,11 @@ textarea {
   font-size: 16px;
   line-height: 28px;
 }
+
 .main-footer ul {
   margin-left: 0px;
 }
+
 .main-footer strong {
   font-size: 16px;
 }
@@ -2227,7 +2211,7 @@ textarea {
 /******************************************************             Bootrstarp menu open on hover ******************************************************/
 /* .navbar-collapse .nav .navbar-nav:hover ul{ display: block; }.nav .navbar-nav li:hover .dropdown-menu{    visibility: visible;}*/
 /*.nav .navbar-nav:hover .dropdown-menu{visibility: visible !important; display: block !important;}*/
-.navbar-nav > li:hover .dropdown-menu {
+.navbar-nav>li:hover .dropdown-menu {
   display: block;
 }
 
@@ -2239,7 +2223,7 @@ textarea {
   display: block !important;
 }
 
-.dropdown-menu1 > li > a {
+.dropdown-menu1>li>a {
   font-size: 16px;
   color: #ffffff;
   line-height: 50px;
@@ -2257,13 +2241,11 @@ textarea {
   border-color: #000000;
   border: 0px;
   background-color: #000000;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#333333),
-    to(#000000)
-  );
+  background: -webkit-gradient(linear,
+      0% 0%,
+      0% 100%,
+      from(#333333),
+      to(#000000));
   color: #f9f9f9;
   text-shadow: 1px 1px 1px #000000;
   position: absolute;
@@ -2295,7 +2277,7 @@ textarea {
 
 /******************************************************            end- Bootrstarp menu open on hover ******************************************************/
 @media screen and (min-width: 768px) and (max-width: 1170px) {
-  .navbar-nav > li > a {
+  .navbar-nav>li>a {
     font-size: 13px;
     height: 50px;
   }
@@ -2323,7 +2305,7 @@ textarea {
     /*display: none !important;*/
   }
 
-  .navbar-nav > li:hover .dropdown-menu {
+  .navbar-nav>li:hover .dropdown-menu {
     /*display: none !important;*/
   }
 }
@@ -2355,15 +2337,15 @@ textarea {
 }
 
 @media screen and (min-width: 1200px) {
-  .navbar-nav > li:first-child > a {
+  .navbar-nav>li:first-child>a {
     /*padding-left: 0;*/
   }
 
-  .navbar-nav > li > a {
+  .navbar-nav>li>a {
     padding: 15px 14px;
   }
 
-  .navbar-nav > li > a:hover {
+  .navbar-nav>li>a:hover {
     color: #000;
   }
 
@@ -2375,7 +2357,7 @@ textarea {
     font-size: 12px;
   }
 
-  .navbar-nav > li:nth-child(4) > a {
+  .navbar-nav>li:nth-child(4)>a {
     /*margin-right: 332px;*/
     /*margin-right: 275px;*/
   }
@@ -2417,15 +2399,15 @@ textarea {
     text-align: left !important;
   }
 
-  .unkow > label {
+  .unkow>label {
     width: 20% !important;
   }
 
-  .unkow > input {
+  .unkow>input {
     width: 45% !important;
   }
 
-  .unkow > select {
+  .unkow>select {
     width: 45% !important;
   }
 
@@ -2530,6 +2512,7 @@ textarea {
   .main-footer h3 {
     margin-top: 15px;
   }
+
   .contact-footer {
     margin-top: 30px !important;
   }
@@ -2544,57 +2527,68 @@ textarea {
     background: #d5052b !important;
     border-radius: 0;
   }
-  .navbar-brand > img {
+
+  .navbar-brand>img {
     display: block;
     max-width: 100%;
     max-height: 100px;
   }
+
   .navbar-collapse {
     padding-left: 15px;
     /*   padding-top: 30px; */
   }
-  .navbar-nav > li > .dropdown-menu {
+
+  .navbar-nav>li>.dropdown-menu {
     position: relative !important;
     display: block !important;
     box-shadow: none !important;
   }
-  .navbar-nav > li > .dropdown-menu {
+
+  .navbar-nav>li>.dropdown-menu {
     background: #d5052b !important;
     text-shadow: none !important;
     margin-bottom: 10px;
   }
-  .dropdown-menu > li > a {
+
+  .dropdown-menu>li>a {
     padding: 10px 14px !important;
   }
-  .navbar-nav > li > .dropdown-menu {
+
+  .navbar-nav>li>.dropdown-menu {
     width: 100%;
   }
-  .dropdown-menu > li > a {
+
+  .dropdown-menu>li>a {
     font-size: 14px !important;
   }
-} /*edited by rizwan*/
+}
+
+/*edited by rizwan*/
 @media only screen and (min-width: 0px) {
+
   /* We don't want certain admin areas to be responsive, it makes no sense */
   .nxs-main {
     width: 65.2em;
   }
 }
+
 .nxs-colorzen .nxs-colorzen-base2-dm {
   border-color: #000000;
   background-color: #000000;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#333333),
-    to(#000000)
-  );
+  background: -webkit-gradient(linear,
+      0% 0%,
+      0% 100%,
+      from(#333333),
+      to(#000000));
   color: #f9f9f9;
   text-shadow: 1px 1px 1px #000000;
 }
+
 .nxs-border-radius-1-0 {
   border-radius: 3px;
 }
+
 .fade {
   opacity: 1;
   transition: opacity 0.25s ease-in-out;
@@ -2602,10 +2596,12 @@ textarea {
   color: white;
   -webkit-transition: opacity 0.25s ease-in-out;
 }
+
 .fade:hover {
   opacity: 0.5;
   cursor: pointer;
 }
+
 /* .container a {
   color: #0781c5;
 } */
@@ -2636,10 +2632,12 @@ textarea {
   background-image: none;
   border: 1px solid transparent;
 }
+
 .rightBox .btn2:hover {
   background: #e94a4c;
   color: #fff !important;
 }
+
 .rightBox .btna {
   background: #ee001c;
   box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.3);
@@ -2667,17 +2665,21 @@ textarea {
   background-image: none;
   border: 1px solid transparent;
 }
+
 .rightBox .btn2:hover {
   background: #e94a4c;
   color: #fff !important;
 }
+
 .rightBox .btn2 h3 {
   margin-top: 10px;
   padding-left: 10px;
 }
+
 .icon-span {
   padding-right: 10px;
 }
+
 .rightBox .btn3 {
   background: #333;
   box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.3);
@@ -2704,17 +2706,21 @@ textarea {
   background-image: none;
   border: 1px solid transparent;
 }
+
 .rightBox .btn2 h3 {
   font-size: 16px !important;
 }
+
 .rightBox .btn3:hover {
   background: #e94a4c;
   color: #fff !important;
 }
+
 .rightBox .btn3 h2 {
   margin-top: 10px;
   padding-left: 10px;
 }
+
 .rightBox .btn4 {
   background: #ee001c;
   box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.3);
@@ -2742,20 +2748,25 @@ textarea {
   color: #fff !important;
   border: 1px solid transparent;
 }
+
 .rightBox .btn4:hover {
   background: #000;
   color: #fff !important;
 }
+
 .rightBox .btn4 h3 {
   margin-top: 10px;
   padding-left: 10px;
 }
+
 .row .e-mail {
   color: #ee001c !important;
 }
+
 .row span a {
   color: #ee001c !important;
 }
+
 .icon:hover,
 .icon:focus,
 .icon:active {
@@ -2764,7 +2775,8 @@ textarea {
   -webkit-transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
   transition-timing-function: cubic-bezier(0.47, 2.02, 0.31, -0.36);
 }
-.dropdown-submenu > .dropdown-menu {
+
+.dropdown-submenu>.dropdown-menu {
   top: auto;
   left: 100%;
   margin-top: -51px;
@@ -2775,19 +2787,20 @@ textarea {
   border-color: #000000;
   border: 0px;
   background-color: #000000;
-  background: -webkit-gradient(
-    linear,
-    0% 0%,
-    0% 100%,
-    from(#333333),
-    to(#000000)
-  );
+  background: -webkit-gradient(linear,
+      0% 0%,
+      0% 100%,
+      from(#333333),
+      to(#000000));
   color: #f9f9f9;
   text-shadow: 1px 1px 1px #000000;
 }
-.dropdown-submenu:hover > .dropdown-menu {
+
+.dropdown-submenu:hover>.dropdown-menu {
   display: block;
-} /*.nav li:hover>.dropdown-menu {    display: block;}*/
+}
+
+/*.nav li:hover>.dropdown-menu {    display: block;}*/
 @media screen and (max-width: 481px) {
   .carousel-indicators li {
     width: 10px !important;
@@ -2796,30 +2809,39 @@ textarea {
     border: 0px !important;
     margin-right: 10px;
   }
+
   .carousel-indicators .active {
     border-radius: 0;
     background: #ffffff !important;
     margin-right: 10px;
     opacity: 1;
   }
-  .dropdown-submenu:hover > .dropdown-menu {
+
+  .dropdown-submenu:hover>.dropdown-menu {
     display: none;
   }
-  .nav li:hover > .dropdown-menu {
-  }
+
+  .nav li:hover>.dropdown-menu {}
+
   .navbar-nav:hover .open .dropdown-menu {
     display: block;
   }
-  .dropdown-submenu > .dropdown-menu {
+
+  .dropdown-submenu>.dropdown-menu {
     background-color: #332f30 !important;
     background: #332f30 !important;
     padding-top: 10px !important;
   }
 }
+
 .navi-gat {
   color: #fff;
   font-size: 17px;
-} /*@media (max-width: 767px).navbar-nav .open .dropdown-menu {    padding-bottom: 12px !important;    display: block;}*/ /*@media (max-width: 767px) {    .navbar-toggle {        display: block;    }}*/ /*edited by rizwan*/
+}
+
+/*@media (max-width: 767px).navbar-nav .open .dropdown-menu {    padding-bottom: 12px !important;    display: block;}*/
+/*@media (max-width: 767px) {    .navbar-toggle {        display: block;    }}*/
+/*edited by rizwan*/
 .paitson-btn-liked {
   border-color: #ee001c;
   background-color: #880010;
@@ -2831,23 +2853,29 @@ textarea {
   padding: 10px 20px;
   border-radius: 21px;
 }
+
 .btna:hover {
   cursor: inherit !important;
 }
+
 @media screen and (max-width: 767px) {
   .content {
     top: 0px !important;
   }
+
   .slider h1 {
     font-size: 12px !important;
   }
+
   .text-white {
     font-size: 12px !important;
   }
+
   .navbar-toggle {
     margin-right: 20px;
     margin-top: 9px;
   }
+
   .dropdown-submenu1 .dropdown-menu1 {
     display: inline-block;
     width: 100%;
@@ -2855,21 +2883,26 @@ textarea {
     background: #c5031a !important;
     text-shadow: none !important;
   }
+
   .dropdown-submenu1 .dropdown-menu1 {
     display: inline-block !important;
   }
-  .dropdown-submenu1 .dropdown-menu1 > li > a {
+
+  .dropdown-submenu1 .dropdown-menu1>li>a {
     font-size: 13px !important;
   }
+
   .dropdown-menu1 li a:hover {
     text-decoration: none;
   }
+
   .half-list {
     float: left;
     padding-right: 20px;
     box-sizing: border-box;
     width: 50%;
   }
+
   .has-btn {
     background: #087baf;
     font-size: 22px;
@@ -2930,20 +2963,24 @@ textarea {
     display: flex;
     justify-content: center;
   }
+
   .homepage-video-section .row {
     display: flex;
     align-items: center;
   }
-  .nav > li > a > img {
+
+  .nav>li>a>img {
     margin-top: 2px;
     margin-bottom: 2px;
   }
 }
+
 @media (max-width: 500px) {
   .homepage-video-section iframe {
     width: 100%;
     height: 200px;
   }
+
   .iframe-wrap {
     padding-top: 15px;
   }
@@ -2956,6 +2993,7 @@ textarea {
 .header-btn-wrap {
   text-align: right;
 }
+
 .header-btn-wrap a {
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px !important;
 }
@@ -2994,7 +3032,7 @@ strong {
   font-family: "Open Sans", sans-serif !important;
 }
 
-.nav > li {
+.nav>li {
   margin-right: 0px;
 }
 
@@ -3020,6 +3058,7 @@ strong {
   .review-heading {
     margin-top: 0px;
   }
+
   #tys_widget4_6187 {
     margin-top: 18px;
     float: right;
@@ -3096,6 +3135,7 @@ strong {
     min-height: 105px;
   }
 }
+
 /* .carousel-inner {
   width: 100%;
 } */
@@ -3112,9 +3152,11 @@ strong {
   .mobile-img {
     width: 100%;
   }
+
   .install-pg-img {
     width: 100%;
   }
+
   .dropdown-menu li {
     padding-left: 20px;
   }
@@ -3127,6 +3169,7 @@ strong {
     width: 35% !important;
     margin-bottom: 10px;
   }
+
   .install-pg-img-1 {
     width: 50% !important;
     margin-bottom: 10px;
@@ -3142,6 +3185,7 @@ strong {
 .specials-page img {
   margin-bottom: 20px;
 }
+
 .privacy-page h3 {
   font-weight: 600;
 }
@@ -3151,9 +3195,11 @@ strong {
     margin-right: 10px !important;
   }
 }
+
 .item-list-inner {
   width: 140px;
 }
+
 @media (max-width: 991px) {
   .footer-list {
     justify-content: center !important;
@@ -3170,15 +3216,16 @@ strong {
 }
 
 @media (min-width: 768px) {
-  .navbar-nav li:hover > ul.dropdown-menu {
+  .navbar-nav li:hover>ul.dropdown-menu {
     display: block;
     transition: 0.3s ease-in-out;
   }
 
-  .navbar-nav > li:hover > a {
+  .navbar-nav>li:hover>a {
     background-color: black !important;
     color: white !important;
   }
+
   .img-about {
     width: 37% !important;
   }
