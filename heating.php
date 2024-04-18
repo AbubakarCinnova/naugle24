@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>Jacks Heating and Cooling | Heating </title>
+<title>Naugle Heating and Cooling | Heating </title>
 
 <?php include_once('menu.php') ?>
 </head>

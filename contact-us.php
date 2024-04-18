@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-<title>Jack's Heating and Cooling | Contact Us</title>
+<title>Naugle Heating and Cooling | Contact Us</title>
 
 </head>
 <?php include('menu.php'); ?>

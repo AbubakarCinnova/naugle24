@@ -171,26 +171,22 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h2>Jack's Heating and Cooling: 76 Years of Trusted HVAC Service</h2>
-                        <p>Jack's Heating and Cooling - your trusted family-owned heating and cooling contractor in
-                            Michigan's Thumb area for over 76 years. Our long-standing presence and dedication have made
-                            us the gold standard in our industry. </p>
+                        <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit </h2>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit distinctio facilis vitae
+                            omnis dicta? Optio alias aliquid molestiae laboriosam ea. Nostrum modi magni molestiae
+                            aperiam incidunt praesentium! Illum, culpa eos? </p>
 
-                        <p>We take pride in building lasting relationships with our clients, some of whom have been
-                            with us for decades. Our mission is to build the same strong bond with you, providing
-                            exceptional customer service that goes above and beyond. </p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod assumenda aperiam consequuntur
+                            voluptas sunt architecto nisi, hic accusamus esse dolores doloribus cum porro, fugiat
+                            possimus? Repellat odio labore maxime autem! </p>
 
-                        <p> At Jack's Heating and Cooling, your satisfaction is paramount. Whether you need furnace
-                            repair, quality installation of Lennox systems, heat pumps, air conditioners, or regular
-                            maintenance, we are committed to exceeding your expectations. Join our community of
-                            satisfied customers and experience top-notch service that stands the test of time. </p>
 
 
 
                     </div>
                     <div class="col-md-6 iframe-wrap">
-                        <iframe width="520" height="330" src="https://www.youtube.com/embed/j0nOyk_GXIY"
-                            title="Jacks Capabilities" frameborder="0"
+                        <iframe width="520" height="330" src="https://www.youtube.com/embed/oznr-1-poSU"
+                            title="Placeholder Video" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen></iframe>
 
