@@ -1,6 +1,7 @@
 <?php $base_url  = "http://stage.reticlewebmarketing.com/naugle24"; ?>
+<!DOCTYPE html>
 
-<html class="no-js" lang="">
+<html class="no-js" lang="en">
 
 <head>
 
