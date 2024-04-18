@@ -1585,7 +1585,7 @@ h6 {
   -webkit-border-radius: 0px;
   -moz-border-radius: 0px;
   -ms-border-radius: 0px;
-  border-radius: 0px !important;
+  border-radius: 7px !important;
 }
 
 .btn-warning:focus,
