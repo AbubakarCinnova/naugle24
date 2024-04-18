@@ -1575,6 +1575,7 @@ h6 {
 /********************************** ******bUTTons**********************************/
 .btn-warning {
   background: #0064AF !important;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   color: white !important;
   font-size: 17px;
   padding: 11px 15px;
