@@ -6,7 +6,7 @@
         <div class="row">
 
             <div class="col-md-4 text-center site-logo-wrap-mobile"> <a href="<?php echo $base_url ?>"><img
-                        src="<?php echo $base_url ?>/img/logo.jpg" width="150" /></a> </div>
+                        src="<?php echo $base_url ?>/img/NaugleLogo.jpg" width="150" /></a> </div>
 
             <div class="col-md-4 ">
                 <h3>Call for Appointment</h3>
