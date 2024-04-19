@@ -266,10 +266,10 @@
                 Tecumseh, MI 49286 <br> <br>
                 Phone: 517-423-3121</p>
         </div>
-        <div class="col-md-6">
+        <!--   <div class="col-md-6">
             <br><br>
             <p><img src="<?php echo $base_url ?>/img/jacks.jpeg" style="width:75%"></p>
-        </div>
+        </div> -->
         <div class="col-sm-8 col-xs-12 margin-bottom-sm">
             <br>
             <form action=" <?php echo $base_url; ?>/contact-us.php" method="POST" class="form-horizontal">
