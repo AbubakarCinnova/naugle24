@@ -261,8 +261,9 @@
     <div class="margin-bottom-lg margin-top-lg clearfix" style="padding-top:20px; padding-bottom:20px;">
         <div class="col-md-6">
             <h1>Contact Us</h1>
-            <p>810 S Adrian St <br>
-                Tecumseh, MI 49286 <br>
+
+            <p>810 S Adrian St <br> <br>
+                Tecumseh, MI 49286 <br> <br>
                 Phone: 517-423-3121</p>
         </div>
         <div class="col-md-6">
