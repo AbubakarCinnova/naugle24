@@ -261,13 +261,9 @@
     <div class="margin-bottom-lg margin-top-lg clearfix" style="padding-top:20px; padding-bottom:20px;">
         <div class="col-md-6">
             <h1>Contact Us</h1>
-            <p> <strong>CARO OFFICE</strong> <br>
-                Address: 1820 W. Caro Rd - Caro, MI 48723 <br>
-                <a href="tel:+19896728451">(989) 672-8451</a> <br> <br>
-                <strong>LAPEER OFFICE</strong> <br>
-                Address: 1567 Imlay City Rd Suite B - Lapeer, MI 48446 <br>
-                <a href="tel:+18106648451">(810) 664-8451</a>
-            </p>
+            <p>810 S Adrian St <br>
+                Tecumseh, MI 49286 <br>
+                Phone: 517-423-3121</p>
         </div>
         <div class="col-md-6">
             <br><br>
