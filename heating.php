@@ -1,5 +1,14 @@
 <?php include_once('header.php') ?>
-<title>Naugle Heating and Cooling | Heating </title>
+<title>Naugle Heating and Cooling| Heating</title>
+
+<meta name="description"
+    content=" Naugle Heating and Cooling: Lenawee County's Trusted Choice for Affordable Furnace Repair for Over 45 Years.">
+
+<meta name="rating" content="general" />
+<meta name="revisit-after" content="3 days" />
+<meta name="robots" content="index, follow" />
+
+
 
 <?php include_once('menu.php') ?>
 </head>
@@ -20,45 +29,47 @@
 
                                 <br><br>
 
-                                <h2>Furnace Repair</h2>
-                                <p>If your furnace has broken down again, don't hesitate to contact Jack's Heating and
-                                    Cooling. We'll arrive promptly and quickly fix the issue, allowing you to focus on
-                                    more important matters. Our skilled technicians are equipped to handle repairs for
-                                    all types of furnaces, including gas, electric, dual fuel, and heat pump systems. We
-                                    service and repair all brands and models, and offer emergency services.</p>
-
-                                <h2>Furnace Replacement and Installation</h2>
-                                <p>Jack's Heating and Cooling can help lower your high utility costs with the
-                                    installation of a Lennox. Our team
-                                    will work with you to customize an energy-efficient heating system that fits your
-                                    family's comfort needs and
-                                    budget.</p>
+                                <h2>Furnace Emergencies Handled with Care by Naugle Heating and Cooling!</h2>
+                                <p>Count on Naugle Heating and Cooling to come to the rescue when your furnace calls it
+                                    quits. Our skilled technicians swiftly tackle issues, freeing you up to focus on
+                                    what truly matters. From gas and electric to dual fuel, oil, and heat pump systems,
+                                    we expertly handle furnace repairs for all brands and models with round-the-clock
+                                    emergency service.</p>
                                 <br>
-                                <a href="<?php echo $base_url ?>/furnaces.php" class="btn btn-warning">View Furnaces
-                                </a>
+                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request
+                                    Service</a>
                                 <br>
 
-                                <h2>Furnace Maintenance</h2>
-                                <p>When Jack's Heating and Cooling provide you with furnace maintenance checks before
-                                    the cold of winter sets in,
-                                    you will be saving money in several different ways. One of the benefits of a
-                                    maintenance plan is our technicians
-                                    will be less likely to have to make repairs throughout the year as long as your
-                                    system is properly maintained.
-                                    Jack's Heating and Cooling will keep your heating system running at its most
-                                    efficient level, helping to reduce
-                                    your energy bills each month. An added benefit of a more efficiently running system
-                                    is the positive environmental
-                                    effect that it will have.</p>
+                                <h2>Affordable Efficiency Upgrade Your Heating with Naugle Heating and Cooling</h2>
+                                <p>Take control of your utility expenses affordably by choosing a Lennox High-efficiency
+                                    furnace or heat pump installation. With advancements in furnace technology, some
+                                    units are now up to 99% efficient, meaning for every dollar spent heating your home,
+                                    99 cents goes to heat. Our dedicated team will collaborate closely with you to
+                                    design a personalized, energy-saving heating system perfectly aligned with your
+                                    family's comfort needs and budget.</p>
+                                <br>
+                                <a href="<?php echo $base_url ?>/furnaces.php" class="btn btn-warning">View Furnaces</a>
+                                <br>
+
+                                <h2>Furnace Maintenance: Prepare for Winter and Save!</h2>
+                                <p>With Naugle Heating and Cooling's thorough furnace maintenance checks before the cold
+                                    sets in, you'll save money in multiple ways. Our ClimateGuard Premier Service Plan
+                                    reduces the likelihood of repairs throughout the year and ensures your system runs
+                                    efficiently, cutting energy bills each month. By investing in our plan, you'll enjoy
+                                    the benefits of lower utility costs, discounts, no overtime charges, and other
+                                    exclusive perks. Learn more about our ClimateGuard Premier Service Plan!</p>
 
                                 <br>
-                                <a href="<?php echo $base_url ?>/tin-man-club.php" class="btn btn-warning">Maintenance
+                                <a href="<?php echo $base_url ?>/climateGuard-plan.php" class="btn btn-warning">View
+                                    ClimateGuard
                                     Plan</a>
-
                                 <br>
-                                <h2>Jack's Heating Services:</h2>
+
+                                <h2>Naugle Heating Services:</h2>
                                 <ul>
                                     <li>High-Efficiency Furnaces</li>
+                                    <li>Furnace Repair</li>
+                                    <li>Oil Furnace Repair</li>
                                     <li>Affordable Pricing</li>
                                     <li>High-Efficiency Heat Pumps</li>
                                     <li>Ductwork Repairs and Replacement</li>
@@ -72,14 +83,13 @@
                                     <li>Whole House Humidifiers</li>
                                     <li>Smart WiFi Thermostats</li>
                                     <li>HVAC</li>
-                                    <li>Oil Furnaces</li>
                                     <li>Ductless Mini Split</li>
                                     <li>Lennox Dealer</li>
+                                    <li>Carrier Dealer</li>
                                     <li>New Furnace Installation</li>
                                     <li>Furnace Replacement</li>
                                     <li>Friendly Technicians</li>
                                     <li>Heating and Furnace Maintenance</li>
-                                    <li>Furnace Repair</li>
                                     <li>Commercial HVAC</li>
                                     <li>Dual Fuel Systems</li>
                                     <li>Heating System Upgrades</li>
@@ -87,17 +97,9 @@
 
                                 <br>
 
-                                <p><strong>When it comes to getting the best heating and cooling equipment or service,
-                                        the only
-                                        name you need to know is
-                                        Jack's Heating and Cooling.</strong></p>
-
-
-                                <br>
-
-                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Contact Us</a>
-                                <br>
-
+                                <p><strong>Naugle Heating and Cooling: Lenawee County's Trusted Choice for Affordable
+                                        Furnace
+                                        Repair for Over 45 Years.</strong></p>
 
                             </div>
 
