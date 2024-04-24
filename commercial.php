@@ -62,7 +62,7 @@
                                     healthier workspace for your business. In addition to our comprehensive Commercial
                                     HVAC solutions, we offer professional air duct cleaning services.</p>
 
-                                <h3>Benefits of Commercial Air Duct Cleaning:</h3>
+                                <h2>Benefits of Commercial Air Duct Cleaning:</h2>
                                 <ul>
                                     <li>Improved Indoor Air Quality: Clean air ducts are essential for maintaining good
                                         indoor air quality.</li>
