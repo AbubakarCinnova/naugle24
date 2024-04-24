@@ -15,8 +15,8 @@
                         <div class="row">
                             <div class="col-sm-12">
 
-                                <img src="<?php echo $base_url ?>/img/need_new_furnace-1 (1) (1).jpg"
-                                    alt="need ac repair " class="img-responsive">
+                                <img src="<?php echo $base_url ?>/img/need_new_furnace-1 (1).jpg" alt="need ac repair "
+                                    class="img-responsive">
 
                                 <br><br>
 
