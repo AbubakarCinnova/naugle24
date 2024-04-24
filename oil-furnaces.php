@@ -80,6 +80,8 @@
                                     <li>Clean and inspect the flue/chimney</li>
                                 </ul>
 
+                                <br>
+
                                 <p><strong>Blower Compartment:</strong></p>
                                 <ul>
                                     <li>Clean blower compartment</li>
@@ -91,6 +93,7 @@
                                     <li>Test high-limit safety</li>
                                     <li>Replace air filter</li>
                                 </ul>
+                                <br>
 
                                 <p><strong>Oil Boiler:</strong></p>
                                 <ul>
@@ -115,6 +118,8 @@
 
                                 <br>
                                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Contact Us</a>
+                                <br>
+
                                 <br>
 
 
