@@ -109,7 +109,7 @@
                         </span></a>
                     <ul class="dropdown-menu">
 
-                        <li><a href="<?php echo $base_url ?>/tin-man-club.php">Annual Tin Man Service Club</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-plan.php">Service Plan</a></li>
                         <li><a href="<?php echo $base_url ?>/water-heater.php">Water Heaters</a></li>
                     </ul>
                 </li>
