@@ -27,12 +27,12 @@
                                     feet) in a day. So it's important that air you and your family breathe in your
                                     home be clear of pollutants.</p><br>
 
-                                <h2>Jack's Heating and Cooling Indoor Air Quality Specialists</h2>
-                                <p>Jack's Heating and Cooling's, whole home indoor air quality approach not only
+                                <h2>Naugle Heating and Cooling Indoor Air Quality Specialists</h2>
+                                <p>Naugle Heating and Cooling's, whole home indoor air quality approach not only
                                     increases the quality of the air within your home, but it also makes a
                                     substantial reduction in your homes energy use, which in turn saves you money on
                                     your energy bills.</p><br>
-                                <p>Jack's Heating and Cooling are experts at providing air filtration products that
+                                <p>Naugle Heating and Cooling are experts at providing air filtration products that
                                     work along with your central heating and central air conditioning system. The
                                     solutions below used by themselves are effective, but in combination, provide a
                                     maximum solution for those suffering from asthma, allergies or other breathing
