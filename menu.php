@@ -9,9 +9,10 @@
                         src="<?php echo $base_url ?>/img/NaugleLogo.jpg" width="150" /></a> </div>
 
             <div class="col-md-4 ">
-                <h3>Call for Appointment</h3>
-                <a href="tel:+15174233121" style="color:black;">
-                    <h2>1-517-423-3121</h2>
+
+                <h3>Call for appointment</h3>
+                <a href="tel:+15174233121" style="text-decoration: none; color: inherit; display: block;">
+                    <h2 style="margin: 0;">1-517-423-3121</h2>
                 </a>
             </div>
 
