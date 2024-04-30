@@ -60,7 +60,7 @@
                                     exclusive perks. Learn more about our ClimateGuard Premier Service Plan!</p>
 
                                 <br>
-                                <a href="<?php echo $base_url ?>/climateguard-plan.php" class="btn btn-warning">View
+                                <a href="<?php echo $base_url ?>//service-plan.php" class="btn btn-warning">View
                                     ClimateGuard
                                     Plan</a>
                                 <br>
