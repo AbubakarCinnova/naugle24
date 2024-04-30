@@ -111,8 +111,8 @@
                                     <li>Available in 2,000 microwatts (UV-2000) or 1,496 microwatts (UV-1000).</li>
                                     <li>UL listed.</li>
                                     <li>5-Year Limited Warranty on covered components.</li>
-                                    <li><a href="<?php echo $base_url ?>/pdf/Lennox_Germicidal_Lamps brochure.pdf">View
-                                            Brochure</a></li>
+                                    <!--  <li><a href="<?php echo $base_url ?>/pdf/Lennox_Germicidal_Lamps brochure.pdf">View
+                                            Brochure</a></li> -->
                                 </ul><br><br>
 
 
