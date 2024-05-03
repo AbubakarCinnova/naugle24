@@ -83,10 +83,10 @@
                                     <li>Heat Pump Repairs</li>
                                 </ul>
 
-                                <h2>Discover why Naugle Heating and Cooling has been the trusted choice for affordable
+                                <p>Discover why Naugle Heating and Cooling has been the trusted choice for affordable
                                     and reliable heating and cooling services in Tecumseh for over 45 years. With our
                                     expert solutions and affordable furnace repairs and maintenance, we're committed to
-                                    keeping your home comfortable all year round.</h2>
+                                    keeping your home comfortable all year round.</p>
 
                                 <h2>Tecumseh, Michigan Heating Services</h2>
                                 <ul>
