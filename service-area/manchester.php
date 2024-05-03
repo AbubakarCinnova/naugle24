@@ -30,7 +30,7 @@
                                 </h2>
 
                                 <img src="<?php echo $base_url ?>/img/Naugle heating and cooling Manchester, MI.jpg"
-                                    alt="manchester banner" class="short-img" width="200" />
+                                    alt="manchester banner" class="short-img" style="width:200px;" />
 
 
                                 <p>Naugle Heating and Cooling is the premier choice for affordable and reliable heating
