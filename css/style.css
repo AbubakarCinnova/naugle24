@@ -3263,7 +3263,7 @@ strong {
   width: 600px;
 }
 
-@media (max-width:768px) {
+@media (max-width:991px) {
   .short-img {
     float: none;
     padding: 20px 0px;
