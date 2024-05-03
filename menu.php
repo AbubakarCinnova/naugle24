@@ -6,7 +6,7 @@
         <div class="row">
 
             <div class="col-md-4 text-center site-logo-wrap-mobile"> <a href="<?php echo $base_url ?>"><img
-                        src="<?php echo $base_url ?>/img/NaugleLogo.jpg" width="150" /></a> </div>
+                        src="<?php echo $base_url ?>/img/naugle logoside.png" width="150" /></a> </div>
 
             <div class="col-md-4 ">
 
@@ -17,7 +17,7 @@
             </div>
 
             <div class="col-md-4 text-center site-logo-wrap-desktop"> <a href="<?php echo $base_url ?>"><img
-                        src="<?php echo $base_url ?>/img/NaugleLogo.jpg" width="180" /></a> </div>
+                        src="<?php echo $base_url ?>/img/naugle logoside.png" width="180" /></a> </div>
 
             <div class="col-md-4  header-btn-wrap">
                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning"
