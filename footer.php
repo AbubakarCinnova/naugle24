@@ -17,40 +17,15 @@
                 <h3>Service Areas</h3>
                 <ul class="footer-list" style="display: flex; flex-wrap: wrap;justify-content:space-between; ">
                     <div class="item-list-inner">
-                        <li><a href="<?php echo $base_url ?>/davison.php">Davison</a></li>
-                        <li><a href="<?php echo $base_url ?>/goodrich.php">Goodrich</a></li>
-                        <li><a href="<?php echo $base_url ?>/imlay-city.php">Imlay City</a></li>
-                        <li><a href="<?php echo $base_url ?>/almont.php">Almont</a></li>
-                        <li><a href="<?php echo $base_url ?>/north-branch.php">North Branch</a></li>
-                        <li><a href="<?php echo $base_url ?>/metamora.php">Metamora</a></li>
-                        <li><a href="<?php echo $base_url ?>/cass-city.php">Cass City</a></li>
-                        <li><a href="<?php echo $base_url ?>/sandusky.php">Sandusky</a></li>
-                        <li><a href="<?php echo $base_url ?>/lake-orion.php">Lake Orion</a></li>
-                    </div>
-                    <div class="item-list-inner">
-                        <li><a href="<?php echo $base_url ?>/vassar.php">Vassar</a></li>
-                        <li><a href="<?php echo $base_url ?>/oxford.php">Oxford</a></li>
-                        <li><a href="<?php echo $base_url ?>/grand-blanc.php">Grand Blanc</a></li>
-                        <li><a href="<?php echo $base_url ?>/lapeer.php">Lapeer</a></li>
-                        <li><a href="<?php echo $base_url ?>/caro.php">Caro</a></li>
-                        <li><a href="<?php echo $base_url ?>/oakland-township.php">Oakland Township</a>
-                        </li>
-                        <li><a href="<?php echo $base_url ?>/brandon-township.php">Brandon Township</a>
-                        </li>
-                        <li><a href="<?php echo $base_url ?>/frankenmuth.php">Frankenmuth</a></li>
-                        <li><a href="<?php echo $base_url ?>/millington.php">Millington</a></li>
-                    </div>
+                        <li><a href="<?php echo $base_url ?>/ypsilanti.php">Ypsilanti, MI</a></li>
 
-                    <div class="item-list-inner">
-                        <li><a href="<?php echo $base_url ?>/ortonville.php">Ortonville</a></li>
-                        <li><a href="<?php echo $base_url ?>/marlette.php">Marlette</a></li>
-                        <li><a href="<?php echo $base_url ?>/richville.php">Richville</a></li>
-                        <li><a href="<?php echo $base_url ?>/akron.php">Akron</a></li>
-                        <li><a href="<?php echo $base_url ?>/sebewaing.php">Sebewaing</a></li>
-                        <li><a href="<?php echo $base_url ?>/fairgrove.php">Fairgrove</a></li>
-                        <li><a href="<?php echo $base_url ?>/gagetown.php">Gagetown</a></li>
-                        <li><a href="<?php echo $base_url ?>/unionville.php">Unionville</a></li>
                     </div>
+                    <!--        <div class="item-list-inner">
+                        <li><a href="<?php echo $base_url ?>/vassar.php">Vassar</a></li>
+                       
+                    </div> -->
+
+
                 </ul>
             </div>
             <div class="col-md-3 col-sm-12 col-xs-12 footer-item">
