@@ -48,29 +48,29 @@
 
 
         <script>
-        jQuery(document).ready(function() {
-            jQuery('.carousel-inner').carousel({
+        $(document).ready(function() {
+            $('.carousel-inner').carousel({
                 interval: 16000
             })
-            jQuery("#myCarousel").carousel({
+            $("#myCarousel").carousel({
                 interval: 16000,
                 autoPlay: 16000,
                 hover: null,
                 pause: null
             });
 
-            jQuery(".item").click(function() {
-                jQuery("#myCarousel").carousel(1);
+            $(".item").click(function() {
+                $("#myCarousel").carousel(1);
             });
-            jQuery(".item2").click(function() {
-                jQuery("#myCarousel").carousel(2);
+            $(".item2").click(function() {
+                $("#myCarousel").carousel(2);
             });
-            jQuery(".item3").click(function() {
-                jQuery("#myCarousel").carousel(3);
+            $(".item3").click(function() {
+                $("#myCarousel").carousel(3);
             });
 
-            jQuery(".item4").click(function() {
-                jQuery("#myCarousel").carousel(4);
+            $(".item4").click(function() {
+                $("#myCarousel").carousel(4);
             });
 
         });
