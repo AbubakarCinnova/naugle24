@@ -18,6 +18,7 @@
                 <ul class="footer-list" style="display: flex; flex-wrap: wrap;justify-content:space-between; ">
                     <div class="item-list-inner">
                         <li><a href="<?php echo $base_url ?>/service-area/ypsilanti.php">Ypsilanti, MI</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/tecumseh.php">Tecumseh, MI</a></li>
 
                     </div>
                     <!--        <div class="item-list-inner">

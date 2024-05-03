@@ -3255,3 +3255,18 @@ strong {
   top: 7px;
   left: 2px;
 }
+
+
+.short-img {
+  float: right;
+  padding: 20px;
+  width: 380px;
+}
+
+@media (max-width:768px) {
+  .short-img {
+    float: none;
+    padding: 20px 0px;
+    width: 100%;
+  }
+}
