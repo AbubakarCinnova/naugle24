@@ -171,24 +171,26 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit </h2>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit distinctio facilis vitae
-                            omnis dicta? Optio alias aliquid molestiae laboriosam ea. Nostrum modi magni molestiae
-                            aperiam incidunt praesentium! Illum, culpa eos? </p>
+                        <h2>Naugle Heating and Cooling: Where Comfort Meets Quality in Lenawee County! </h2>
 
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod assumenda aperiam consequuntur
-                            voluptas sunt architecto nisi, hic accusamus esse dolores doloribus cum porro, fugiat
-                            possimus? Repellat odio labore maxime autem! </p>
+                        <p>Naugle Heating and Cooling is celebrating our 45th year in business! As a family-owned and
+                            operated company in Tecumseh, Michigan, we take immense pride in delivering exceptional
+                            heating and air conditioning solutions. Our team of HVAC-certified technicians has over four
+                            decades of experience and continually enhances their expertise through ongoing training.
+                            Whether you need urgent furnace repair, routine HVAC maintenance, or installation of a new
+                            high-efficiency home comfort system, you can trust us to provide top-notch service. </p>
+
+                        <p>Call us for all your heating and cooling needs and experience the difference 45 years of
+                            commitment to quality and customer satisfaction can make. We look forward to serving you and
+                            exceeding your expectations for many more years to co </p>
 
 
 
 
                     </div>
                     <div class="col-md-6 iframe-wrap">
-                        <iframe width="520" height="330" src="https://www.youtube.com/embed/oznr-1-poSU"
-                            title="Placeholder Video" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            allowfullscreen></iframe>
+                        <img src="<?php echo $base_url ?>/img/Naugle heating and cooling (2).jpeg"
+                            alt="Naugle Heating and Cooling" class="full-width-img">
 
                     </div>
                 </div>

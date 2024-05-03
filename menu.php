@@ -21,7 +21,7 @@
 
             <div class="col-md-4  header-btn-wrap">
                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning"
-                    style="margin-top:18px;">Request Service</a>
+                    style="margin-top:18px; margin-bottom:10px;">Request Service</a>
             </div>
         </div>
     </div>
