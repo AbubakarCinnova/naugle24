@@ -3260,7 +3260,7 @@ strong {
 .short-img {
   float: right;
   padding: 20px;
-  width: 500px;
+  width: 600px;
 }
 
 @media (max-width:768px) {
