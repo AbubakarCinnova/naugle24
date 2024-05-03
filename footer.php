@@ -19,6 +19,7 @@
                     <div class="item-list-inner">
                         <li><a href="<?php echo $base_url ?>/service-area/ypsilanti.php">Ypsilanti, MI</a></li>
                         <li><a href="<?php echo $base_url ?>/service-area/tecumseh.php">Tecumseh, MI</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/bridgewater.php">Bridgewater, MI</a></li>
 
                     </div>
                     <!--        <div class="item-list-inner">
