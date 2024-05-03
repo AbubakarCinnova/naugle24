@@ -12,18 +12,23 @@
 
                 <div class="item active">
                     <a href="<?php echo $base_url ?>/heat-pumps.php"> <img
-                            src="<?php echo $base_url; ?>/img/Hybrid Heat (3).png" alt="second slide" width="100%">
+                            src="<?php echo $base_url; ?>/img/Hybrid Heat (3).png" alt="first slide" width="100%">
                     </a>
                 </div>
                 <div class="item">
                     <a href="<?php echo $base_url ?>/contact-us.php"> <img
-                            src="<?php echo $base_url; ?>/img/Jacks_2000REBATE1 (2) (1) (1).png" alt="fifth slide"
+                            src="<?php echo $base_url; ?>/img/in duct 1.png" alt="second slide" width="100%">
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="<?php echo $base_url ?>/contact-us.php"> <img
+                            src="<?php echo $base_url; ?>/img/SPRING_REBATE_LENNOX (3) (1) (1).png" alt="third slide"
                             width="100%">
                     </a>
                 </div>
                 <div class="item">
                     <a href="<?php echo $base_url ?>/contact-us.php"> <img
-                            src="<?php echo $base_url; ?>/img/Fall_Furnace_TuneUp_1000_350_V2 (1).jpg" alt="sixth slide"
+                            src="<?php echo $base_url; ?>/img/Spring_AC_TuneUp_1000_350_V2 (1).jpg" alt="fourth slide"
                             width="100%">
                     </a>
                 </div>
