@@ -104,7 +104,7 @@
                         <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
                     </ul>
 
-                <li><a href="<?php echo $base_url ?>/generators.php">Generators</a></li>
+                <li><a href="<?php echo $base_url ?>/repair.php">Repair</a></li>
                 <li><a class="dropdown-toggle">Services<span class="material-symbols-outlined arrow-dropdown">
                             arrow_drop_down
                         </span></a>

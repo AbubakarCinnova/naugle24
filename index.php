@@ -111,10 +111,9 @@
                     <div class="text-center blue-boxes">
                         <a href="<?php echo $base_url ?>/geothermal.php">
                             <div class="icon">
-                                <img src="<?php echo $base_url; ?>/img/geothermal bubble-min.jpeg" alt=""
-                                    class="img-responsive">
+                                <img src="<?php echo $base_url; ?>/img/repair (1).jpeg" alt="" class="img-responsive">
                             </div>
-                            <h4>Geothermal<span class="material-symbols-outlined arrow-icon-blue-box">
+                            <h4>Repair<span class="material-symbols-outlined arrow-icon-blue-box">
                                     arrow_right
                                 </span></h4>
                             <p> </p>
