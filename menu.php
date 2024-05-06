@@ -118,9 +118,9 @@
                 <li><a href="<?php echo $base_url ?>/commercial.php" class="dropdown-toggle">Commercial</a>
 
                 <li><a href="<?php echo $base_url ?>/air-quality.php" class="dropdown-toggle">Air Quality</a>
-                    <!--    <ul class="dropdown-menu">
-                        <li><a href="<?php echo $base_url ?>/duct-cleaning.php">Duct Cleaning</a></li>
-                    </ul> -->
+                    <ul class="dropdown-menu">
+                        <li><a href="<?php echo $base_url ?>/air-purifier.php">Air Purifier</a></li>
+                    </ul>
                 </li>
 
 
