@@ -3271,14 +3271,14 @@ strong {
   }
 }
 
-.short-img-280 {
+.short-img-2 {
   float: right;
   padding: 20px;
   width: 280px;
 }
 
 @media (max-width:991px) {
-  .short-img-280 {
+  .short-img-2 {
     float: none;
     padding: 20px 0px;
     width: 100%;

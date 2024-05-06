@@ -23,8 +23,8 @@
                                 <h2>Introducing the Healthy Climate® In-Duct Air Purifier: Your Solution to Cleaner,
                                     Healthier Indoor Air</h2>
 
-                                <img src="<?php echo $base_url ?>/img/Air Purifier (1) (1).png" alt="Bridgewater banner"
-                                    class="short-img-280" />
+                                <img src="<?php echo $base_url ?>/img/Air Purifier (1) (1).png" alt="Air Purifierimg"
+                                    class="short-img-2" />
 
                                 <p>Transform your indoor environment with the Healthy Climate® In-Duct Air Purifier.
                                     This innovative system is designed to deliver cleaner, healthier air in every room
