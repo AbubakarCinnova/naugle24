@@ -109,7 +109,7 @@
                 </div>
                 <div class="col-lg-2 col-sm-4">
                     <div class="text-center blue-boxes">
-                        <a href="<?php echo $base_url ?>/geothermal.php">
+                        <a href="<?php echo $base_url ?>/repair.php">
                             <div class="icon">
                                 <img src="<?php echo $base_url; ?>/img/repair (1).jpeg" alt="" class="img-responsive">
                             </div>
