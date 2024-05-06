@@ -119,7 +119,10 @@
 
                 <li><a href="<?php echo $base_url ?>/air-quality.php" class="dropdown-toggle">Air Quality</a>
                     <ul class="dropdown-menu">
-                        <li><a href="<?php echo $base_url ?>/air-purifier.php">Air Purifier</a></li>
+                        <li><a href="<?php echo $base_url ?>/air-purifier.php">Air Purifier<span
+                                    class="material-symbols-outlined arrow-dropdown">
+                                    arrow_drop_down
+                                </span></a></li>
                     </ul>
                 </li>
 
