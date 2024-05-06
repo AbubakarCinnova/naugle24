@@ -1,5 +1,5 @@
 <?php include_once('header.php') ?>
-<title>Naugle Heating and Cooling| Commercial HVAC</title>
+<title>Naugle Heating and Cooling | Commercial HVAC</title>
 
 <meta name="description"
     content="Naugle Heating and Cooling offers reliable commercial HVAC services tailored to your business needs. From energy-efficient installations to fast repairs and maintenance plans, trust us to keep your workspace comfortable year-round. Contact us today for dependable HVAC solutions.">
@@ -63,16 +63,10 @@
                                     <li>Radiant Tube Heaters</li>
                                     <li>Boilers</li>
                                 </ul>
-
+                                <br>
                                 <p><strong>Naugle Heating and Cooling is dedicated to delivering reliable and efficient
                                         commercial HVAC solutions tailored to your business. Contact us today to discuss
                                         your HVAC needs!</strong></p>
-
-
-
-
-
-
 
 
 
