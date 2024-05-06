@@ -1,9 +1,8 @@
 <?php include_once('header.php') ?>
-<title>Naugle Heating and Cooling| Commercial HVAC </title>
+<title>Naugle Heating and Cooling| Commercial HVAC</title>
 
 <meta name="description"
-    content=" Discover top-tier commercial HVAC solutions and indoor air quality services tailored to your business needs in Lenawee County, MI. With over 45 years of expertise, Naugle Heating and Cooling ensures high efficiency and affordable comfort. Contact us today for hassle-free commercial HVAC management and rediscover true comfort!">
-
+    content="Naugle Heating and Cooling offers reliable commercial HVAC services tailored to your business needs. From energy-efficient installations to fast repairs and maintenance plans, trust us to keep your workspace comfortable year-round. Contact us today for dependable HVAC solutions.">
 <?php include_once('menu.php') ?>
 </head>
 
@@ -18,97 +17,68 @@
                         <div class="row">
                             <div class="col-sm-12">
 
-                                <!-- <img src="<?php echo $base_url ?>/img/"
-                                    alt="Commercial HVAC banner" class="full-width-img">
-
-                                <br><br> -->
-
-                                <h2>Naugle Heating and Cooling: Your Affordable and Trusted Partner for Commercial HVAC
-                                    Solutions and Indoor Air Quality Services</h2>
-
-                                <p>Welcome to Naugle Heating and Cooling, your premier partner for Commercial HVAC
-                                    solutions. With over 45 years of expertise, we understand the importance of your
-                                    business operations and strive to redefine comfort in your workspace. Our goal is to
-                                    handle your Commercial HVAC needs efficiently, so you can focus on growing your
-                                    business.</p>
 
 
-                                <h2>Why Choose Naugle Heating and Cooling for Commercial HVAC?</h2>
-                                <p>At Naugle Heating and Cooling, we prioritize your comfort and peace of mind. With our
-                                    45 years of experience, we specialize in installing cutting-edge, energy-efficient
-                                    Commercial HVAC systems, providing routine maintenance, and delivering swift
-                                    repairs.</p>
 
-                                <h2>Tailored Commercial HVAC Services for Your Business</h2>
-                                <p>We offer customized Commercial HVAC solutions tailored to meet your building's
-                                    specific needs and your company's budget requirements. Our comprehensive services
-                                    include the installation, maintenance, and repair of high-efficiency Commercial HVAC
-                                    systems, furnaces, air conditioning units, packaged units, and rooftop units. Rest
-                                    assured, we can service and repair all brands and makes of commercial heating and
-                                    air conditioning equipment.</p>
+                                <h2>Efficient Solutions for Your Commercial HVAC Needs</h2>
+                                <img src="<?php echo $base_url ?>/img/Naugle Heating and Cooling Commercial HVAC.jpeg"
+                                    alt="Commercial HVAC banner" class="short-img">
 
-                                <h2>Unlock the Naugle Heating and Cooling Advantage</h2>
-                                <p>Experience hassle-free Commercial HVAC management with our comprehensive preventative
-                                    maintenance agreements. Designed to uphold the integrity of your Commercial HVAC
-                                    systems, these agreements enable you to prioritize your business operations. By
-                                    mitigating the risk of unforeseen breakdowns and delivering substantial energy cost
-                                    savings, our maintenance agreements offer peace of mind. Partner with Naugle Heating
-                                    and Cooling, your trusted mechanical contractor for Commercial HVAC solutions, and
-                                    focus on fostering your business growth without worrying about Commercial HVAC
-                                    concerns.</p>
+                                <p>Naugle Heating and Cooling specializes in providing reliable commercial HVAC services
+                                    tailored to your business requirements. With a focus on energy efficiency and
+                                    performance, we offer a range of solutions to keep your workspace comfortable
+                                    year-round.</p>
 
-                                <h2>Commercial Indoor Air Quality</h2>
-                                <p>Naugle Heating and Cooling goes beyond traditional HVAC services to ensure a
-                                    healthier workspace for your business. In addition to our comprehensive Commercial
-                                    HVAC solutions, we offer professional air duct cleaning services.</p>
+                                <h2>Our Services Include:</h2>
 
-                                <h2>Benefits of Commercial Air Duct Cleaning:</h2>
                                 <ul>
-                                    <li>Improved Indoor Air Quality: Clean air ducts are essential for maintaining good
-                                        indoor air quality.</li>
-                                    <li>Removal of Contaminants: Over time, dust, allergens, and contaminants can
-                                        accumulate in your ductwork, negatively impacting the air you breathe.</li>
-                                    <li>Thorough Cleaning Process: Our air duct cleaning process is thorough and
-                                        effective, removing built-up debris, mold, and bacteria from your ducts.</li>
-                                    <li>Healthier Indoor Environment: By promoting cleaner and healthier indoor air, our
-                                        air duct cleaning services benefit your employees and customers.</li>
+                                    <li><strong>Installation of Energy-Efficient Systems:</strong> Stay ahead with our
+                                        installation of the latest energy-efficient HVAC systems, ensuring cost savings
+                                        and optimal performance.</li>
+                                    <li><strong>Routine Maintenance:</strong> Keep your HVAC systems running smoothly
+                                        with our proactive maintenance services, aimed at extending equipment lifespan
+                                        and preventing breakdowns.</li>
+                                    <li><strong>Fast and Dependable Repairs:</strong> Minimize downtime with our prompt
+                                        and reliable commercial HVAC repair services, delivered by skilled technicians.
+                                    </li>
+                                    <li><strong>Custom-Tailored Solutions:</strong> We understand every business is
+                                        unique. Our HVAC solutions are customized to meet your specific needs and
+                                        budget.</li>
                                 </ul>
 
-                                <h2>Partner with Us for Complete Commercial HVAC Care</h2>
+                                <h2>Comprehensive HVAC Services:</h2>
 
-                                <p>By incorporating air duct cleaning into our range of services, we provide
-                                    comprehensive Commercial HVAC care tailored to your business needs. With Naugle
-                                    Heating and Cooling as your trusted partner for Commercial HVAC, you can enjoy a
-                                    comfortable and healthy workspace while focusing on business growth.</p>
+                                <ul>
+                                    <li>Duct Systems and Modifications</li>
+                                    <li>Ductless Air Conditioning Split Systems</li>
+                                    <li>All-in-One Solution Packaged Systems</li>
+                                    <li>Complete Seasonal Inspections</li>
+                                    <li>Emergency Repair Service</li>
+                                    <li>Temperature/Humidity Control</li>
+                                    <li>Maintenance Plans</li>
+                                    <li>Indoor Air Quality Solutions</li>
+                                    <li>Sales, Repair, and Installation</li>
+                                    <li>Rooftop Units</li>
+                                    <li>Garage Heaters</li>
+                                    <li>Radiant Tube Heaters</li>
+                                    <li>Boilers</li>
+                                </ul>
 
-                                <p><strong>Ready to Improve Your Commercial Workspace Comfort in Lenawee County? Contact
-                                        Us
-                                        Today and Rediscover True Comfort with Naugle Heating and Cooling!</strong></p>
+                                <p><strong>Naugle Heating and Cooling is dedicated to delivering reliable and efficient
+                                        commercial HVAC solutions tailored to your business. Contact us today to discuss
+                                        your HVAC needs!</strong></p>
+
+
+
+
+
+
+
+
 
                                 <br>
                                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Contact Us</a>
                                 <br>
-
-                                <h2>Naugle Heating and Cooling, Commercial HVAC Services:</h2>
-                                <ul>
-                                    <li>Commercial HVAC Repair</li>
-                                    <li>Commercial Heating/AC Installation</li>
-                                    <li>Commercial Duct Cleaning</li>
-                                    <li>Ductless Air Conditioning Split Systems</li>
-                                    <li>All-in-One Solution Packaged Systems</li>
-                                    <li>Complete Seasonal Inspections of HVAC systems</li>
-                                    <li>Emergency Repair Service</li>
-                                    <li>VRF Systems</li>
-                                    <li>Temperature/Humidity Control</li>
-                                    <li>Commercial HVAC Maintenance Plans</li>
-                                    <li>Indoor Air Quality</li>
-                                    <li>HVAC Sales, Repair, Installation</li>
-                                    <li>Rooftop Units</li>
-                                    <li>HVAC </li>
-                                    <li>Duct Systems and Modifications</li>
-                                </ul>
-
-
 
 
 
