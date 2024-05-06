@@ -3270,3 +3270,17 @@ strong {
     width: 100%;
   }
 }
+
+.short-img-280 {
+  float: right;
+  padding: 20px;
+  width: 280px;
+}
+
+@media (max-width:991px) {
+  .short-img-280 {
+    float: none;
+    padding: 20px 0px;
+    width: 100%;
+  }
+}

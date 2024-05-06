@@ -24,7 +24,7 @@
                                     Healthier Indoor Air</h2>
 
                                 <img src="<?php echo $base_url ?>/img/Air Purifier (1) (1).png" alt="Bridgewater banner"
-                                    class="short-img" />
+                                    class="short-img-280" />
 
                                 <p>Transform your indoor environment with the Healthy Climate® In-Duct Air Purifier.
                                     This innovative system is designed to deliver cleaner, healthier air in every room
@@ -57,11 +57,12 @@
                                     Additionally, the lamp is covered by a one-year warranty when installed in
                                     residential applications. Regular maintenance, including annual replacement of the
                                     lamp bulb, ensures optimal performance. This annual bulb replacement can be
-                                    performed once a year during our Annual Climateguard Service Plan visit, if you have
+                                    performed once a year during our Annual <a
+                                        href="<?php echo $base_url ?>/naugle24/service-plan.php">Climateguard
+                                        Service Plan</a> visit, if you have
                                     a maintenance contract with us.</p>
 
-                                <p><a href="<?php echo $base_url ?>/naugle24/service-plan.php">Climateguard
-                                        Service Plan</a></p>
+
 
                                 <h2>What are VOCs?</h2>
 
