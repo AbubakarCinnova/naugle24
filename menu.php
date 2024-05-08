@@ -87,7 +87,7 @@
                         <li><a href="<?php echo $base_url ?>/boilers.php">Gas Boilers </a></li>
                         <li><a href="<?php echo $base_url ?>/heat-pumps.php">Heat Pumps</a></li>
                         <li><a href="<?php echo $base_url ?>/oil-furnaces.php">Oil Furnaces</a></li>
-                        <li><a href="<?php echo $base_url ?>/geothermal.php"> Geothermal </a></li>
+
                         <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
 
                     </ul>
