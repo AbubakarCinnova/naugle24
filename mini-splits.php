@@ -29,7 +29,7 @@
                                     systems.</p>
                                 <br>
                                 <!-- Insert your mini split Lennox picture here -->
-                                <img src="https://www.888797jack.com/img/lennox-mini-split-tc1.jpg" alt="water heater"
+                                <img src="<?php echo $base_url; ?>/img/lennox-mini-split-tc1.jpg" alt="water heater"
                                     style="width:70%" ;="">
                                 <br>
                                 <p>Ductless mini-split heating and cooling units use small heating and cooling air
