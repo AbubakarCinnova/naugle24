@@ -100,7 +100,7 @@
                     <ul class="dropdown-menu">
                         <li><a href="<?php echo $base_url ?>/air-conditioners.php">AC</a></li>
                         <li><a href="<?php echo $base_url ?>/mini-splits.php">Mini Split</a></li>
-                        <li><a href="<?php echo $base_url ?>/geothermal.php"> Geothermal </a></li>
+
                         <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
                     </ul>
 
