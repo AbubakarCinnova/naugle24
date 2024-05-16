@@ -24,6 +24,7 @@
                         <li><a href="<?php echo $base_url ?>/service-area/adrian.php">Adrian , MI</a></li>
                         <li><a href="<?php echo $base_url ?>/service-area/dundee.php">Dundee , MI</a></li>
                         <li><a href="<?php echo $base_url ?>/service-area/saline.php">Saline , MI</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/milan.php">Milan , MI</a></li>
 
                     </div>
                     <!--        <div class="item-list-inner">
