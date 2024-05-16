@@ -18,51 +18,54 @@
 
 
 
-                                <h2>Caleb Hill and Tim Hill Owners of Jack's Heating and Cooling</h2>
+                                <h2>Welcome to Naugle Heating and Cooling: Your Comfort Partner Since 1978</h2>
 
+                                <!-- 
                                 <img src="<?php echo $base_url ?>/img/jacks about (1).jpeg" alt="Financing"
-                                    style="float: right;width: 45%; padding:5px 15px;">
+                                    style="float: right;width: 45%; padding:5px 15px;"> -->
 
-                                <p>Welcome to Jack’s Heating and Cooling, where our focus, since 1947, has been on
-                                    providing exceptional heating, ventilation, and air-conditioning solutions tailored
-                                    to
-                                    meet your needs. We specialize in creating custom comfort systems for both new and
-                                    existing homes, as well as commercial properties, ensuring optimal performance and
-                                    ultimate satisfaction.</p>
 
-                                <p>At Jack’s Heating and Cooling, we understand the importance of a hassle-free and
-                                    enjoyable customer experience. That's why our entire team is dedicated to delivering
-                                    outstanding service from start to finish, whether it's for residential or commercial
-                                    HVAC projects. If we ever fall short, we are committed to making it right and
-                                    exceeding
-                                    your expectations.</p>
 
-                                <p>Our team consists of highly trained professionals who have met our rigorous standards
-                                    of
-                                    excellence. When you choose us, you can trust that our technicians will arrive at
-                                    your
-                                    location, whether residential or commercial, with well-stocked trucks. We take pride
-                                    in
-                                    respecting the cleanliness of your property by utilizing drop cloths and booties to
-                                    ensure that no mess is left behind. Rest assured that when we complete our work, we
-                                    will
-                                    leave your property in pristine condition.</p>
+                                <p>Experience unparalleled comfort and transparency with Naugle Heating and Cooling. For
+                                    45
+                                    years, we've been Southern Michigan's trusted source for affordable, quality HVAC
+                                    solutions tailored to your needs.</p>
 
-                                <p>At Jack’s Heating and Cooling, we believe in going above and beyond to provide a
-                                    unique
-                                    and compelling experience for our valued customers. From our meticulous attention to
-                                    detail to our commitment to customer satisfaction, we strive to set ourselves apart
-                                    as
-                                    the premier choice for all your heating, ventilation, and air-conditioning needs.
+
+
+                                <h2>Our Promise:</h2>
+
+                                <p>At Naugle Heating and Cooling, we promise not just comfort, but peace of mind. Our
+                                    transparent pricing and competitive rates ensure you get the quality you deserve
+                                    without
+                                    breaking the bank.</p>
+
+
+
+                                <h2>Why Choose Us?</h2>
+
+                                <p>We're not just HVAC experts; we're your partners in comfort. Our handpicked team of
+                                    professionals brings expertise and dedication to every project, ensuring a seamless
+                                    experience from start to finish.</p>
+
+
+
+                                <h2>What Sets Us Apart:</h2>
+
+                                <p>From our obsession with customer satisfaction to our meticulous attention to detail,
+                                    we
+                                    go above and beyond to exceed your expectations. With Naugle Heating and Cooling,
+                                    you're
+                                    not just a client; you're family.</p>
+
+
+
+
+
+                                <h2>Ready to Experience the Difference?</h2>
+
+                                <p>Contact us today to discover why we've been the trusted choice for over four decades.
                                 </p>
-
-                                <p>Contact us today to discover Jack’s Heating and Cooling differences. Let us create
-                                    the
-                                    perfect comfort system for your home or commercial property, designed to meet your
-                                    unique requirements and deliver unparalleled performance. Experience the excellence
-                                    and
-                                    dedication that have made us a trusted name in the industry since 1947.</p>
-
 
 
 
