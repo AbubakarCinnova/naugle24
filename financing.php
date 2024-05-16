@@ -16,15 +16,16 @@
                             <div class="col-sm-12">
 
 
-                                <img src="<?php echo $base_url ?>/img/financing-banner-1.jpg" alt="Financing"
-                                    class="full-width-img">
-                                <br>
+
 
                                 <p>A new home heating and cooling system is one of the most important investments you'll
                                     make, one that can deliver energy and cost savings for many years to come. You don't
                                     have to let a small budget keep you from getting the most efficient solution for
                                     your household. That's why we offer flexible financing options.</p>
 
+
+                                <img src="<?php echo $base_url ?>/img/financing-banner-1.jpg" alt="Financing"
+                                    class="short-img">
 
                                 <p><strong>Call us today to find out the financing options we have available for you
                                     </strong></p>
