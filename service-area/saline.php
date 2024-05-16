@@ -25,6 +25,10 @@
                         <div class="row">
                             <div class="col-lg-12">
 
+
+                                <img src="<?php echo $base_url ?>/img/Saline, MI.jpeg" alt="Saline banner"
+                                    class="img-responsive" />
+
                                 <h2>
                                     Discover Unrivaled, Affordable Heating and Cooling Services in Saline, Michigan
                                 </h2>
