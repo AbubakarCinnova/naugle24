@@ -40,7 +40,7 @@
                         <li><a href="<?php echo $base_url ?>/service-area/blissfield.php">Blissfield, MI</a></li>
                         <li><a href="<?php echo $base_url ?>/service-area/onsted.php">Onsted, MI</a></li>
                         <li><a href="<?php echo $base_url ?>/service-area/grass-lake.php">Grass Lake, MI</a></li>
-                        <li><a href="<?php echo $base_url ?>/service-area/ogden-township.php">Ogden Township, MI</a>
+                        <li><a href="<?php echo $base_url ?>/service-area/ogden-township.php">Ogden Township</a>
                         </li>
 
                     </div>
