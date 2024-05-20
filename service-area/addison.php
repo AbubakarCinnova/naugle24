@@ -53,8 +53,8 @@
                                     comfort and safety, offering fast and amiable emergency services when you need them
                                     most.</p>
 
-                                <p>Learn about our <a href="<?php echo $base_url ?>/service-plan.php"
-                                        class="btn">Climate Guard Maintenance Plan</a> to keep your system in top
+                                <p>Learn about our <a href="<?php echo $base_url ?>/service-plan.php">Climate Guard
+                                        Maintenance Plan</a> to keep your system in top
                                     condition year-round.</p>
 
                                 <p>Discover why Naugle Heating and Cooling has been the trusted choice for affordable
