@@ -76,7 +76,7 @@
                                 <h1>Our Most Popular Lennox Air Conditioner</h1>
 
                                 <p> <img src="<?php echo $base_url ?>/img/lennox-ac's.png" alt="lennox-ac's"
-                                        class="full-width-img"></p>
+                                        class="short-img"></p>
 
                                 <h2>Lennox Signature Model SL28XCV</h2>
                                 <p>The most precise and efficient air conditioner available</p>
@@ -124,6 +124,8 @@
                                         Limited Warranty on covered components. A 10-Year Extended Limited Warranty is
                                         available with product registration.</li>
                                 </ul>
+                                <br>
+
 
                                 <p><strong>Contact Us for a Free in-Home Estimate For a New Home Comfort System</strong>
                                 </p>
@@ -141,7 +143,7 @@
 
                                 <h1>Our Most Popular Carrier Air Conditioners</h1>
                                 <p><img src="<?php echo $base_url ?>/img/carrier ac's.jpg"
-                                        alt="Carrier Air Conditioners"></p>
+                                        alt="Carrier Air Conditioners" class="short-img"></p>
 
                                 <h2>Carrier Infinity® 26 Air Conditioner 24VNA6</h2>
                                 <p>with Greenspeed® Intelligence</p>
@@ -164,6 +166,7 @@
                                     <li>Compressor Sound Blanket</li>
                                     <li>10-year parts†</li>
                                 </ul>
+                                <br>
 
                                 <p>Contact Us for a Free in-Home Estimate For a New Home Comfort System</p>
 
@@ -172,11 +175,13 @@
                                     class="btn btn-warning">Request Quote
                                 </a>
                                 <br>
+                                <br>
 
                                 <small>† Upon timely registration. The warranty period is five years if not registered
                                     within 90 days of installation except in jurisdictions where warranty benefits
                                     cannot be conditioned upon registration. See the limited warranty certificate for
                                     complete details and restrictions.</small>
+                                <br>
                                 <br>
 
                                 <p><a href="<?php echo $base_url ?>/specials.php" class="btn btn-warning">See
