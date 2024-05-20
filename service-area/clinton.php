@@ -1,9 +1,10 @@
 <?php include_once('../header.php') ?>
 
-<title>Furnace Repair Napoleon, MI | HVAC Napoleon, MI | Heating, &amp; Cooling Napoleon, MI </title>
+<title>Furnace Repair Clinton, MI | HVAC Clinton, MI | Heating, &amp; Cooling Clinton, MI </title>
 
 <meta name="description"
-    content=" Naugle Heating and Cooling is your premier choice for affordable and dependable heating and cooling services in Napoleon, MI.  Contact us today!">
+    content=" Naugle Heating and Cooling is your premier choice for affordable and dependable heating and cooling services in Clinton, MI.  Contact us today!">
+
 <meta name="rating" content="general" />
 <meta name="revisit-after" content="3 days" />
 <meta name="robots" content="index, follow" />
@@ -24,12 +25,13 @@
                         <div class="row">
                             <div class="col-lg-12">
 
-                                <h2>Exceptional Heating and Cooling Services in Napoleon, Michigan</h2>
+                                <h2>Discover Unrivaled, Affordable Heating and Cooling Services in Clinton, Michigan
+                                </h2>
 
                                 <p>Naugle Heating and Cooling is your premier choice for affordable and dependable
-                                    heating and cooling services in Napoleon, MI. With over four decades of unwavering
+                                    heating and cooling services in Clinton, MI. With over four decades of unwavering
                                     dedication to customer satisfaction, our seasoned expertise has made us the top pick
-                                    for homeowners across the Napoleon area.</p>
+                                    for homeowners across the Clinton area.</p>
 
                                 <h2>Tailored HVAC Solutions for Every Home</h2>
 
@@ -43,24 +45,23 @@
 
                                 <h2>Dependable Furnace Repairs and Maintenance</h2>
 
-                                <p>When the winter chill arrives, you can rely on Naugle Heating and Cooling for prompt
-                                    and cost-effective furnace repairs in Napoleon. Our certified technicians have the
-                                    expertise to diagnose and resolve any furnace issue, whether it involves minor
-                                    repairs or a complete furnace replacement. Leveraging our extensive experience, we
-                                    prioritize your comfort and safety by offering swift and reliable emergency services
-                                    when you need them most. Our commitment to excellence ensures that every service we
-                                    provide meets the highest standards of quality and efficiency.</p>
+                                <p>When the winter chill arrives, count on Naugle Heating and Cooling for prompt and
+                                    budget-friendly furnace repairs in Clinton. Our certified technicians have the
+                                    expertise to diagnose and resolve any furnace issue, whether for minor repairs or a
+                                    complete furnace replacement. With our extensive experience, we prioritize your
+                                    comfort and safety, offering fast and reliable emergency services when you need them
+                                    most.</p>
 
                                 <p>Learn about our <a href="<?php echo $base_url ?>/service-plan.php">Climate Guard
                                         Maintenance Plan</a> to keep your system in top
                                     condition year-round.</p>
 
                                 <p>Discover why Naugle Heating and Cooling has been the trusted choice for affordable
-                                    and reliable heating and cooling services in Napoleon for over 45 years. With our
+                                    and reliable heating and cooling services in Clinton for over 45 years. With our
                                     expert solutions and affordable furnace repairs and maintenance, we're committed to
                                     keeping your home comfortable all year round.</p>
 
-                                <h2>Napoleon, Michigan Heating Services</h2>
+                                <h2>Clinton, Michigan Heating Services</h2>
                                 <ul>
                                     <li>Furnace Repair</li>
                                     <li>Heating Repair</li>
@@ -86,22 +87,22 @@
                                     Service</a>
                                 <br>
 
-                                <h2>Experience Unmatched Air Conditioning Services in Napoleon</h2>
+                                <h2>Experience Unmatched Air Conditioning Services in Clinton, MI</h2>
 
-                                <p>Stay cool and comfortable even during the hottest Napoleon summers with Naugle
-                                    Heating and Cooling's exceptional air conditioning services. Whether you need a new
-                                    air conditioning system or central air repairs, trust us to be your reliable
-                                    partner. Our highly trained technicians specialize in handling all your residential
-                                    air conditioner needs, including AC repair, replacement, recharging, and regular
-                                    maintenance. We offer emergency services to ensure your comfort is never
-                                    compromised. Partnering with all major brands of home cooling equipment, we
-                                    guarantee exceptional service and performance every time.</p>
+                                <p>Stay cool and comfortable during the hottest Clinton summers with Naugle Heating and
+                                    Cooling's exceptional air conditioning services. Whether you need a new air
+                                    conditioning system or central air repairs, trust us to be your reliable partner.
+                                    Our highly trained technicians specialize in all your residential air conditioner
+                                    needs, including AC repair, replacement, recharging, and regular maintenance. We
+                                    also offer emergency services to ensure your comfort is never compromised.
+                                    Partnering with all major brands of home cooling equipment, we guarantee exceptional
+                                    service and performance every time.</p>
 
-                                <p>Experience unparalleled air conditioning services in Napoleon with Naugle Heating and
+                                <p>Experience unparalleled air conditioning services in Clinton with Naugle Heating and
                                     Cooling. From installations to repairs and maintenance, our team is dedicated to
                                     keeping your home cool and comfortable throughout the summer.</p>
 
-                                <h2>Napoleon, Michigan Air Conditioning Services</h2>
+                                <h2>Clinton, Michigan Air Conditioning Services</h2>
                                 <ul>
                                     <li>Air Conditioning Repairs</li>
                                     <li>Ductless Mini Splits</li>
@@ -117,6 +118,12 @@
                                     <li>Heat Pump Repairs</li>
                                 </ul>
 
+                                <br>
+
+                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request
+                                    Service</a>
+                                <br>
+
                                 <h2>Energy-Efficient Heating and Cooling Installations</h2>
 
                                 <p>Upgrade your home's comfort and efficiency with a new high-efficiency heating and
@@ -129,6 +136,14 @@
                                 <p><strong>Contact Naugle Heating and Cooling today to learn more about our
                                         energy-efficient heating and cooling systems and schedule your free in-home
                                         estimate!</strong></p>
+
+                                <br>
+
+                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request
+                                    Quote</a>
+                                <br>
+                                <br>
+
 
                                 <br>
 

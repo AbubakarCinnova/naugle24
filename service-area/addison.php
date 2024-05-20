@@ -62,7 +62,7 @@
                                     expert solutions and affordable furnace repairs and maintenance, we're committed to
                                     keeping your home comfortable all year round.</p>
 
-                                <h3>Addison, Michigan Heating Services</h3>
+                                <h2>Addison, Michigan Heating Services</h2>
                                 <ul>
                                     <li>Furnace Repair</li>
                                     <li>Heating Repair</li>
@@ -104,7 +104,7 @@
                                     Cooling. From installations to repairs and maintenance, our team is dedicated to
                                     keeping your home cool and comfortable throughout the summer.</p>
 
-                                <h3>Addison, Michigan Air Conditioning Services</h3>
+                                <h2>Addison, Michigan Air Conditioning Services</h2>
                                 <ul>
                                     <li>Air Conditioning Repairs</li>
                                     <li>Ductless Mini Splits</li>
