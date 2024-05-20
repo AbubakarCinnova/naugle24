@@ -5,7 +5,7 @@
             <div class="col-md-4 col-sm-12 col-xs-12 footer-item" style="text-align:center;">
 
                 <!--   <h3>About Us</h3> -->
-                <p><img src="<?php echo $base_url ?>/img/lennox_reverse (1).png" style="width:70%"></p>
+                <p><img src="<?php echo $base_url ?>/img/lennox_reverse (1).png" style="width:65%"></p>
                 <!-- <p><img src="<?php echo $base_url ?>/img/kohler gen logo.jpg" style="width:200px"></p> -->
                 <!--     <p class="light">At Jack's Heating and Cooling, we aim to exceed client expectations by employing the
                     best customer service people and holding ourselves to only the highest level of customer care. Our
