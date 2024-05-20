@@ -35,6 +35,7 @@
                     </div>
 
                     <div class="item-list-inner">
+                        <li><a href="<?php echo $base_url ?>/service-area/jasper.php">Jasper, MI</a></li>
 
                     </div>
 
