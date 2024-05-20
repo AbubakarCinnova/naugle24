@@ -39,6 +39,7 @@
                         <li><a href="<?php echo $base_url ?>/service-area/hudson.php">Hudson, MI</a></li>
                         <li><a href="<?php echo $base_url ?>/service-area/blissfield.php">Blissfield, MI</a></li>
                         <li><a href="<?php echo $base_url ?>/service-area/onsted.php">Onsted, MI</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/grass-lake.php">Grass Lake, MI</a></li>
 
                     </div>
 
