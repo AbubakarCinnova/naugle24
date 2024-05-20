@@ -29,6 +29,11 @@
                         <li><a href="<?php echo $base_url ?>/service-area/saline.php">Saline, MI</a></li>
                         <li><a href="<?php echo $base_url ?>/service-area/milan.php">Milan, MI</a></li>
                         <li><a href="<?php echo $base_url ?>/service-area/addison.php">Addison, MI</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/napoleon.php">Napoleon, MI</a></li>
+                    </div>
+
+                    <div class="item-list-inner">
+
                     </div>
 
 

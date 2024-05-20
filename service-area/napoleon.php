@@ -1,10 +1,9 @@
 <?php include_once('../header.php') ?>
 
-<title>Furnace Repair Addison, MI | HVAC Addison, MI | Heating, &amp; Cooling Addison, MI </title>
+<title>Furnace Repair Napoleon, MI | HVAC Napoleon, MI | Heating, &amp; Cooling Napoleon, MI </title>
 
 <meta name="description"
-    content=" Naugle Heating and Cooling is your premier choice for affordable and dependable heating and cooling services in Addison, MI.  Contact us today!">
-
+    content=" Naugle Heating and Cooling is your premier choice for affordable and dependable heating and cooling services in Napoleon, MI.  Contact us today!">
 <meta name="rating" content="general" />
 <meta name="revisit-after" content="3 days" />
 <meta name="robots" content="index, follow" />
@@ -25,44 +24,43 @@
                         <div class="row">
                             <div class="col-lg-12">
 
-                                <h2>
-                                    Reliable and Affordable Heating and Cooling Services in Addison, Michigan
-                                </h2>
+                                <h2>Exceptional Heating and Cooling Services in Napoleon, Michigan</h2>
 
                                 <p>Naugle Heating and Cooling is your premier choice for affordable and dependable
-                                    heating and cooling services in Addison, MI. With over four decades of unwavering
+                                    heating and cooling services in Napoleon, MI. With over four decades of unwavering
                                     dedication to customer satisfaction, our seasoned expertise has made us the top pick
-                                    for homeowners across the Addison area.</p>
+                                    for homeowners across the Napoleon area.</p>
 
                                 <h2>Tailored HVAC Solutions for Every Home</h2>
 
-                                <p>At Naugle Heating and Cooling, we recognize the distinctiveness of each home. For
-                                    over forty years, we've been delivering a comprehensive array of HVAC services
-                                    precisely tailored to your needs. Whether you have a gas or oil furnace, boiler,
-                                    heat pump, HVAC system, mini-split, or central air, our team of experts is ready to
+                                <p>At Naugle Heating and Cooling, we recognize the unique needs of each home. For over
+                                    forty years, we've been delivering a comprehensive array of HVAC services precisely
+                                    tailored to your requirements. Whether you have a gas or oil furnace, boiler, heat
+                                    pump, HVAC system, mini-split, or central air, our team of experts is ready to
                                     tackle any issue. From diagnostics and repairs to installations and replacements,
-                                    our wealth of experience ensures your HVAC system operates smoothly and efficiently.
+                                    our extensive experience ensures your HVAC system operates smoothly and efficiently.
                                 </p>
 
                                 <h2>Dependable Furnace Repairs and Maintenance</h2>
 
-                                <p>When the winter chill arrives, count on Naugle Heating and Cooling for prompt and
-                                    budget-friendly furnace repairs in Addison. Our certified technicians possess the
-                                    expertise to diagnose and resolve any furnace issue, be it minor repairs or a
-                                    complete furnace replacement. With our extensive experience, we prioritize your
-                                    comfort and safety, offering fast and amiable emergency services when you need them
-                                    most.</p>
+                                <p>When the winter chill arrives, you can rely on Naugle Heating and Cooling for prompt
+                                    and cost-effective furnace repairs in Napoleon. Our certified technicians have the
+                                    expertise to diagnose and resolve any furnace issue, whether it involves minor
+                                    repairs or a complete furnace replacement. Leveraging our extensive experience, we
+                                    prioritize your comfort and safety by offering swift and reliable emergency services
+                                    when you need them most. Our commitment to excellence ensures that every service we
+                                    provide meets the highest standards of quality and efficiency.</p>
 
-                                <p>Learn about our <a href="<?php echo $base_url ?>/service-plan.php"
-                                        class="btn">Climate Guard Maintenance Plan</a> to keep your system in top
+                                <p>Learn about our <a href="<?php echo $base_url ?>/service-plan.php">Climate Guard
+                                        Maintenance Plan</a> to keep your system in top
                                     condition year-round.</p>
 
                                 <p>Discover why Naugle Heating and Cooling has been the trusted choice for affordable
-                                    and reliable heating and cooling services in Addison for over 45 years. With our
+                                    and reliable heating and cooling services in Napoleon for over 45 years. With our
                                     expert solutions and affordable furnace repairs and maintenance, we're committed to
                                     keeping your home comfortable all year round.</p>
 
-                                <h3>Addison, Michigan Heating Services</h3>
+                                <h3>Napoleon, Michigan Heating Services</h3>
                                 <ul>
                                     <li>Furnace Repair</li>
                                     <li>Heating Repair</li>
@@ -82,29 +80,28 @@
                                     <li>HVAC Repairs</li>
                                 </ul>
 
-
                                 <br>
 
                                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request
-                                    Quote</a>
+                                    Service</a>
                                 <br>
 
-                                <h2>Experience Unmatched Air Conditioning Services in Addison</h2>
+                                <h2>Experience Unmatched Air Conditioning Services in Napoleon</h2>
 
-                                <p>Stay cool and comfortable even during the hottest Addison summers with Naugle Heating
-                                    and Cooling's exceptional air conditioning services. Whether you need a new air
-                                    conditioning system or central air repairs, trust us to be your reliable partner.
-                                    Our highly trained technicians specialize in handling all your residential air
-                                    conditioner needs, including AC repair, replacement, recharging, and regular
+                                <p>Stay cool and comfortable even during the hottest Napoleon summers with Naugle
+                                    Heating and Cooling's exceptional air conditioning services. Whether you need a new
+                                    air conditioning system or central air repairs, trust us to be your reliable
+                                    partner. Our highly trained technicians specialize in handling all your residential
+                                    air conditioner needs, including AC repair, replacement, recharging, and regular
                                     maintenance. We offer emergency services to ensure your comfort is never
                                     compromised. Partnering with all major brands of home cooling equipment, we
                                     guarantee exceptional service and performance every time.</p>
 
-                                <p>Experience unparalleled air conditioning services in Addison with Naugle Heating and
+                                <p>Experience unparalleled air conditioning services in Napoleon with Naugle Heating and
                                     Cooling. From installations to repairs and maintenance, our team is dedicated to
                                     keeping your home cool and comfortable throughout the summer.</p>
 
-                                <h3>Addison, Michigan Air Conditioning Services</h3>
+                                <h3>Napoleon, Michigan Air Conditioning Services</h3>
                                 <ul>
                                     <li>Air Conditioning Repairs</li>
                                     <li>Ductless Mini Splits</li>
@@ -126,17 +123,12 @@
                                     cooling system from Naugle Heating and Cooling. We proudly offer top-of-the-line
                                     Lennox and Carrier systems that fit your budget and provide exceptional performance.
                                     Experience significant energy savings and increased property value by investing in
-                                    an energy-efficient system.
-                                    <br>
-                                    Ready to enhance your home's comfort and efficiency?
-                                </p>
+                                    an energy-efficient system.</p>
+                                <p>Ready to enhance your home's comfort and efficiency?</p>
 
                                 <p><strong>Contact Naugle Heating and Cooling today to learn more about our
-                                        energy-efficient
-                                        heating and cooling systems and schedule your free in-home estimate!</strong>
-                                </p>
-
-
+                                        energy-efficient heating and cooling systems and schedule your free in-home
+                                        estimate!</strong></p>
 
                                 <br>
 
@@ -144,6 +136,8 @@
                                     Quote</a>
                                 <br>
                                 <br>
+
+
 
                             </div>
                         </div>
