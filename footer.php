@@ -32,10 +32,10 @@
                         <li><a href="<?php echo $base_url ?>/service-area/clinton.php">Clinton, MI</a></li>
                         <li><a href="<?php echo $base_url ?>/service-area/brooklyn.php">Brooklyn, MI</a></li>
                         <li><a href="<?php echo $base_url ?>/service-area/jasper.php">Jasper, MI</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/jackson.php">Jackson, MI</a></li>
                     </div>
 
                     <div class="item-list-inner">
-                        <li><a href="<?php echo $base_url ?>/service-area/jackson.php">Jackson, MI</a></li>
                         <li><a href="<?php echo $base_url ?>/service-area/hudson.php">Hudson, MI</a></li>
 
                     </div>
