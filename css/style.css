@@ -2316,6 +2316,7 @@ textarea {
   .mid_header .row {
     display: flex;
     align-items: center;
+    padding: 15px 0px;
   }
 }
 
