@@ -21,16 +21,15 @@
                         <li><a href="<?php echo $base_url ?>/service-area/tecumseh.php">Tecumseh, MI</a></li>
                         <li><a href="<?php echo $base_url ?>/service-area/bridgewater.php">Bridgewater, MI</a></li>
                         <li><a href="<?php echo $base_url ?>/service-area/manchester.php">Manchester, MI</a></li>
-                        <li><a href="<?php echo $base_url ?>/service-area/adrian.php">Adrian , MI</a></li>
-                        <li><a href="<?php echo $base_url ?>/service-area/dundee.php">Dundee , MI</a></li>
-                        <li><a href="<?php echo $base_url ?>/service-area/saline.php">Saline , MI</a></li>
-                        <li><a href="<?php echo $base_url ?>/service-area/milan.php">Milan , MI</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/adrian.php">Adrian, MI</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/dundee.php">Dundee, MI</a></li>
 
                     </div>
-                    <!--        <div class="item-list-inner">
-                        <li><a href="<?php echo $base_url ?>/vassar.php">Vassar</a></li>
-                       
-                    </div> -->
+                    <div class="item-list-inner">
+                        <li><a href="<?php echo $base_url ?>/service-area/saline.php">Saline, MI</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/milan.php">Milan, MI</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/addison.php">Addison, MI</a></li>
+                    </div>
 
 
                 </ul>
