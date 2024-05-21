@@ -282,9 +282,9 @@
 
             <div class="container">
 
-                <h2 style="color: white;">Please call us at <a href="tel:+15174233121"
+                <h2 style="color: white;">Please Call or Text for Appointment <a href="tel:+15174233121"
                         style="color: #3f3f3f;text-decoration: none; ">517-423-3121</a>
-                    To Make an Appointment.</h2>
+                </h2>
 
             </div>
 
