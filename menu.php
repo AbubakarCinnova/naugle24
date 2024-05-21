@@ -1,3 +1,11 @@
+<div class="phone-head">
+    <p>Call or Text for Appointment</p>
+    <a href="tel:+15174233121" style="text-decoration: none; color: inherit; display: block;">
+        517-423-3121
+    </a>
+</div>
+
+
 <header>
 
     <div class="clearfix"></div>
