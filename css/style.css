@@ -3294,10 +3294,10 @@ strong {
 }
 
 .head-call p {
-  font-size: 20px;
+  font-size: 20px !important;
 }
 
 .head-call a {
-  font-size: 20px;
-  font-weight: 600;
+  font-size: 20px !important;
+  font-weight: 600 !important;
 }
