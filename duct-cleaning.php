@@ -36,6 +36,7 @@
                                     <li>You're experiencing an increase in allergy symptoms.</li>
                                     <li>You notice more dust accumulation on furniture near air vents.</li>
                                 </ul>
+                                <br>
 
                                 <p>If you observe any of these signs, it's advisable to contact Naugle Heating and
                                     Cooling for professional evaluation and consider scheduling an air duct cleaning to

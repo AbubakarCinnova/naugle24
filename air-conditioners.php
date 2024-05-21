@@ -73,7 +73,7 @@
 
 
 
-                                <h1>Our Most Popular Lennox Air Conditioner</h1>
+                                <h1>Our Most Popular Lennox Air Conditioners</h1>
 
                                 <p> <img src="<?php echo $base_url ?>/img/lennox-ac's.png" alt="lennox-ac's"
                                         class="short-img"></p>
