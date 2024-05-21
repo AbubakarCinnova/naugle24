@@ -3292,3 +3292,12 @@ strong {
     width: 100%;
   }
 }
+
+.head-call p {
+  font-size: 20px;
+}
+
+.head-call a {
+  font-size: 20px;
+  font-weight: 600;
+}

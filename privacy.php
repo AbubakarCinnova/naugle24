@@ -20,7 +20,7 @@
 
                                 <h1>Privacy Policy and Terms of Service Naugle Heating and Cooling
                                 </h1>
-                                <h2>Naugle Heating and Cooling. Terms of Service and Privacy Policy</h2>
+
                                 <h3>1. Terms</h3>
                                 <p>By accessing the website at <a href="https://nauglehc.com/"> https://nauglehc.com/
                                     </a>, you are agreeing to be bound by these terms of service, all applicable

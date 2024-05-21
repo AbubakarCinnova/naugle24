@@ -8,11 +8,11 @@
             <div class="col-md-4 text-center site-logo-wrap-mobile"> <a href="<?php echo $base_url ?>"><img
                         src="<?php echo $base_url ?>/img/naugle logoside.png" width="280" /></a> </div>
 
-            <div class="col-md-4 ">
+            <div class="col-md-4 head-call">
 
-                <h3>Call or Text for Appointment</h3>
+                <p>Call or Text for Appointment</p>
                 <a href="tel:+15174233121" style="text-decoration: none; color: inherit; display: block;">
-                    <h2 style="margin: 0;">517-423-3121</h2>
+                    517-423-3121
                 </a>
             </div>
 
