@@ -219,88 +219,54 @@
                     <!--slider list-->
 
                     <div class="col-sm-12 item  owl-item">
-
                         <p class="light text-center ">
-                        <p class="light text-center ">Wonderful company, great installation and very friendly! Highly
-                            recommend them for anyone heat or ac needs.
+                        <p class="light text-center ">These folks are very friendly and professional. They responded
+                            quickly to my request for a quote. The installation was completed the very next day!
                         </p>
-
-                        <h3 class="text-center">C.B </h3>
-
-                    </div>
-
-                    <!--slider list-->
-                    <!--slider list-->
-
-                    <div class="col-sm-12 item  owl-item">
-
-                        <p class="light text-center ">
-                        <p class="light text-center ">Professional and friendly and answered all my questions!!! Can't
-                            thank them enough!!</p>
-
-                        <h3 class="text-center">J.S</h3>
-
-                    </div>
-
-                    <!--slider list-->
-                    <!--slider list-->
-
-                    <div class="col-sm-12 item  owl-item">
-
-                        <p class="light text-center ">
-                        <p class="light text-center ">We are very happy to have recently had a new Lennox furnace and
-                            a/c installed by Jacks Heating and Cooling.
-                        </p>
-
-                        <h3 class="text-center">S.K</h3>
-
-                    </div>
-
-                    <!--slider list-->
-                    <!--slider list-->
-
-                    <div class="col-sm-12 item  owl-item">
-
-                        <p class="light text-center ">
-                        <p class="light text-center ">These folks are very personable and professional. They responded
-                            quickly to my request for a quote. That quote was completed the very next day!
-                        </p>
-
-                        <h3 class="text-center">C.T</h3>
-
+                        <h3 class="text-center">T. J. Ypsilanti </h3>
                     </div>
 
                     <div class="col-sm-12 item  owl-item">
-
                         <p class="light text-center ">
-                        <p class="light text-center ">Very professional company, did a complete install for me .very
-                            happy with the price and their work, thanks again.
+                        <p class="light text-center ">I just had a floor unit mini-split installed and I'm very
+                            impressed with the Naugle team's quality of work and their dedication to getting it right
+                            for the customer.
                         </p>
-
-                        <h3 class="text-center">S.C</h3>
-
+                        <h3 class="text-center">F.H. Saline </h3>
                     </div>
 
                     <div class="col-sm-12 item  owl-item">
-
                         <p class="light text-center ">
-                        <p class="light text-center ">Can't say enough good about this company. LOVE that they are on
-                            time, and professional.
-
+                        <p class="light text-center ">A very professional company did a complete install for me, and we
+                            are happy with the price and their work, thanks again.
                         </p>
-
-                        <h3 class="text-center">S.C</h3>
-
+                        <h3 class="text-center">C.G. Brooklyn </h3>
                     </div>
+
+                    <div class="col-sm-12 item  owl-item">
+                        <p class="light text-center ">
+                        <p class="light text-center ">What an AMAZING company! I know we will be using them as needed
+                            for years to come. We had our central air replaced today. I can't say enough about this
+                            company!
+                        </p>
+                        <h3 class="text-center">S. K. Tecumseh </h3>
+                    </div>
+                    <div class="col-sm-12 item  owl-item">
+                        <p class="light text-center ">
+                        <p class="light text-center ">Was referred to Naugle by a friend and they are fantastic!
+                        </p>
+                        <h3 class="text-center">B. P. Adrian </h3>
+                    </div>
+
 
                 </div>
 
-                <div class="col-sm-12 text-center">
+                <!--   <div class="col-sm-12 text-center">
                     <div class="read-more-wrap">
                         <a href="<?php echo $base_url ?>/testimonials.php" class="stretched-link ">Read More</a>
                     </div>
+                </div> -->
 
-                </div>
             </div>
         </section>
 
