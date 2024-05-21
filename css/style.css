@@ -2080,6 +2080,13 @@ textarea {
   color: #3f3d3d;
 }
 
+@media (min-width:768px) {
+  .testmonial p {
+    width: 70%;
+    margin: 0 auto;
+  }
+}
+
 .testmonial h3 {
   padding-top: 15px !important;
   font-style: italic;
