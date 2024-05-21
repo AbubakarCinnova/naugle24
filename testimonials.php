@@ -16,8 +16,8 @@
                     <div class="  content-area">
                         <div class="row">
                             <div class="col-sm-12">
-                                <a
-                                    href="https://www.google.com/search?q=naugle+hvac&rlz=1C1ONGR_enUS1070US1073&oq=naugle&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgcIARAAGIAEMgYIAhBFGDkyBggDEEUYQDIHCAQQABiABDIHCAUQABiABDINCAYQLhivARjHARiABDIHCAcQABiABNIBCTI5MjRqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8#lrd=0x883ceb651da9d5bd:0x434dc5055ad9510e,1,,,,">
+                                <a href="https://www.google.com/search?q=naugle+hvac&rlz=1C1ONGR_enUS1070US1073&oq=naugle&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgcIARAAGIAEMgYIAhBFGDkyBggDEEUYQDIHCAQQABiABDIHCAUQABiABDINCAYQLhivARjHARiABDIHCAcQABiABNIBCTI5MjRqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8#lrd=0x883ceb651da9d5bd:0x434dc5055ad9510e,1,,,,"
+                                    target="_blank">
 
                                     <img src="<?php echo $base_url ?>/img/reviews-google (1) (1) (1).gif"
                                         alt="reviews-google" class="">
