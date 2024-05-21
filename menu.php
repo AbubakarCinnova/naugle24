@@ -11,8 +11,7 @@
             <div class="col-md-4 ">
 
                 <h3>Call or Text for Appointment</h3>
-                <a href="tel:+15174233121,sms:+15174233121"
-                    style="text-decoration: none; color: inherit; display: block;">
+                <a href="tel:+15174233121" style="text-decoration: none; color: inherit; display: block;">
                     <h2 style="margin: 0;">517-423-3121</h2>
                 </a>
             </div>
