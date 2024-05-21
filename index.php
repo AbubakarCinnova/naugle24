@@ -261,11 +261,11 @@
 
                 </div>
 
-                <!--   <div class="col-sm-12 text-center">
+                <div class="col-sm-12 text-center">
                     <div class="read-more-wrap">
                         <a href="<?php echo $base_url ?>/testimonials.php" class="stretched-link ">Read More</a>
                     </div>
-                </div> -->
+                </div>
 
             </div>
         </section>
