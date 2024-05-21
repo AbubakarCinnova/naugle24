@@ -55,7 +55,8 @@
                     Phone: 517-423-3121</p>
 
                 <p><a href="<?php echo $base_url ?>/privacy.php">Terms of Service and Privacy Policy</a></p>
-                <p><a href="https://www.facebook.com/888797jack/" class="facebook-icon current">facebook </a></p>
+                <p><a href="https://www.facebook.com/p/Naugle-Heating-Cooling-LLC-100063516813070/?locale=fy_NL"
+                        class="facebook-icon current">facebook </a></p>
 
             </div>
 
