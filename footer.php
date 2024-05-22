@@ -6,6 +6,10 @@
 
                 <!--   <h3>About Us</h3> -->
                 <p><img src="<?php echo $base_url ?>/img/lennox_reverse (1).png" style="width:65%"></p>
+                <p><a href="https://www.bbb.org/us/mi/tecumseh/profile/heating-and-air-conditioning/naugle-heating-cooling-llc-0422-29000013/#sealclick"
+                        target="_blank" rel="nofollow"><img
+                            src="https://seal-toledo.bbb.org/seals/blue-seal-200-42-bbb-29000013.png" style="border: 0;"
+                            alt="Naugle Heating & Cooling LLC BBB Business Review" /></a></p>
                 <!-- <p><img src="<?php echo $base_url ?>/img/kohler gen logo.jpg" style="width:200px"></p> -->
                 <!--     <p class="light">At Jack's Heating and Cooling, we aim to exceed client expectations by employing the
                     best customer service people and holding ourselves to only the highest level of customer care. Our
