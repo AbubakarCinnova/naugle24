@@ -7,7 +7,7 @@
                 <!--   <h3>About Us</h3> -->
                 <p><img src="<?php echo $base_url ?>/img/lennox_reverse (1).png" style="width:65%"></p>
 
-                <p><img src="<?php echo $base_url ?>/img/carrier_experts_logo_rgb_wht.png" style="width:65%"></p>
+                <p><img src="<?php echo $base_url ?>/img/carrier_experts_logo_rgb_wht.png" style="width:55%"></p>
 
                 <p><a href="https://www.bbb.org/us/mi/tecumseh/profile/heating-and-air-conditioning/naugle-heating-cooling-llc-0422-29000013/#sealclick"
                         target="_blank" rel="nofollow"><img
