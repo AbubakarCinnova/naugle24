@@ -11,6 +11,7 @@
                             src="https://seal-toledo.bbb.org/seals/blue-seal-200-42-bbb-29000013.png"
                             style="border: 0; width:70%; margin-top:20px;"
                             alt="Naugle Heating & Cooling LLC BBB Business Review" /></a></p>
+                <p><img src="<?php echo $base_url ?>/img/carrier_experts_logo_rgb_wht.png" style="width:65%"></p>
                 <!-- <p><img src="<?php echo $base_url ?>/img/kohler gen logo.jpg" style="width:200px"></p> -->
                 <!--     <p class="light">At Jack's Heating and Cooling, we aim to exceed client expectations by employing the
                     best customer service people and holding ourselves to only the highest level of customer care. Our
