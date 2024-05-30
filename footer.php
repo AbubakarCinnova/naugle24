@@ -5,14 +5,14 @@
             <div class="col-md-4 col-sm-12 col-xs-12 footer-item" style="text-align:center;">
 
                 <!--   <h3>About Us</h3> -->
-                <p><img src="<?php echo $base_url ?>/img/lennox_reverse (1).png" style="width:65%"></p>
+                <p><img src="<?php echo $base_url ?>/img/lennox_reverse (1).png" style="width:50%"></p>
 
-                <p><img src="<?php echo $base_url ?>/img/carrier_experts_logo_rgb_wht.png" style="width:55%"></p>
+                <p><img src="<?php echo $base_url ?>/img/carrier_experts_logo_rgb_wht.png" style="width:50%"></p>
 
                 <p><a href="https://www.bbb.org/us/mi/tecumseh/profile/heating-and-air-conditioning/naugle-heating-cooling-llc-0422-29000013/#sealclick"
                         target="_blank" rel="nofollow"><img
                             src="https://seal-toledo.bbb.org/seals/blue-seal-200-42-bbb-29000013.png"
-                            style="border: 0; width:70%; margin-top:20px;"
+                            style="border: 0; width:60%; margin-top:10px;"
                             alt="Naugle Heating & Cooling LLC BBB Business Review" /></a></p>
 
 
