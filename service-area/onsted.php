@@ -24,6 +24,9 @@
                         <div class="row">
                             <div class="col-lg-12">
 
+                                <img src="<?php echo $base_url ?>/img/Onsted, MI.jpeg" alt="onsted  banner"
+                                    class="full-width-img" />
+                                <br>
 
                                 <h2>Unmatched Heating and Cooling Services in Onsted, Michigan</h2>
 
