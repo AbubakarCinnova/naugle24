@@ -26,7 +26,7 @@
                                 </h2>
 
                                 <img src="<?php echo $base_url ?>/img/ypsilanti, MI.jpeg" alt="ypsilanti banner"
-                                    class="short-img" style="width:280px;" />
+                                    class="short-img-2" />
 
                                 <p>Naugle Heating and Cooling is the premier choice for affordable and reliable heating
                                     and cooling services in Ypsilanti. With decades of experience, our unmatched
