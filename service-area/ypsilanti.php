@@ -24,6 +24,10 @@
 
                                 <h2>Discover Unrivaled, Affordable Heating and Cooling Services in Ypsilanti, Michigan
                                 </h2>
+
+                                <img src="<?php echo $base_url ?>/img/ypsilanti, MI.jpeg" alt="ypsilanti banner"
+                                    class="short-img" style="width:280px;" />
+
                                 <p>Naugle Heating and Cooling is the premier choice for affordable and reliable heating
                                     and cooling services in Ypsilanti. With decades of experience, our unmatched
                                     expertise and unwavering dedication to customer satisfaction have made us the go-to
