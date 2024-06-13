@@ -22,13 +22,12 @@
                 </div>
                 <div class="item">
                     <a href="<?php echo $base_url ?>/contact-us.php"> <img
-                            src="<?php echo $base_url; ?>/img/SPRING_REBATE_LENNOX (3) (1) (1).png" alt="third slide"
-                            width="100%">
+                            src="<?php echo $base_url; ?>/img/Summer sale.png" alt="third slide" width="100%">
                     </a>
                 </div>
                 <div class="item">
                     <a href="<?php echo $base_url ?>/contact-us.php"> <img
-                            src="<?php echo $base_url; ?>/img/Spring_AC_TuneUp_1000_350_V2 (1).jpg" alt="fourth slide"
+                            src="<?php echo $base_url; ?>/img/naugle we do it all 1000X350v2.jpeg" alt="fourth slide"
                             width="100%">
                     </a>
                 </div>
