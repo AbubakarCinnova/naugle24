@@ -8,7 +8,7 @@
 
 <?php
                                          
- define('MAIL_TO','service@nauglehc.com');
+ define('MAIL_TO','amahboob@cinnova.com');
  $errors = array();
  
  $name = '';
