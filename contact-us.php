@@ -8,7 +8,7 @@
 
 <?php
                                          
- define('MAIL_TO','amahboob@cinnova.com');
+ define('MAIL_TO','service@nauglehc.com');
  $errors = array();
  
  $name = '';
@@ -18,7 +18,7 @@
  $address = '';
  $city = '';
  $state = '';
- $subject = 'Contact Us';
+ $subject = 'Contact Query From Naugle Heating and Cooling';
  $message = '';
  
  /**
