@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-<title>Naugle Heating and Cooling</title>
+<title>Naugle Heating &amp; Cooling LLC | HVAC Lenawee County | MI | Heating and Cooling </title>
 <?php include('menu.php'); ?>
 
 </head>
