@@ -16,7 +16,7 @@
                             <div class="col-sm-12">
 
                                 <br>
-                                <img src="<?php echo $base_url ?>/img/Lennox Dealer Flyers naugle (1)_page-0001.jpg"
+                                <img src="<?php echo $base_url ?>/img/Naugle Summer Special_page-0001.jpg"
                                     alt="page banner special" class="full-width-img">
 
                                 <br>
